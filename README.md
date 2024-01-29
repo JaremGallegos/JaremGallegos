@@ -26,7 +26,7 @@
 
 <!-- Message center -->
 <p align="center">
-  <img src="Jarem.gif" alt="Message Jarem"/>
+  <img src="PhraseBanner.gif" alt="Message Jarem"/>
 </p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
