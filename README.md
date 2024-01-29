@@ -1,5 +1,6 @@
 ## Hi there, I'm Jarem Gallegos <img src="https://media.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif" width="30">
 
+![Banner de Jarem Gallegos] (“One step at a time, You'll get there”.gif)
 
 # ![Banner de Jarem Gallegos] ()
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaremgallegos/)
