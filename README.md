@@ -1,4 +1,6 @@
-# <img src="https://media.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif" width="100"> Bienvenid@ al GitHub de Jarem Gallegos
+## Hi there, I'm Jarem Gallegos
+
+# <img src="https://media.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif" width="100">
 
 # ![Banner de Jarem Gallegos] ()
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaremgallegos/)
@@ -26,6 +28,7 @@ Estudiante en diseño informática y encanto por la tecnología
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+
 
 ## Proyectos Hechos
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JaremGallegos&layout=compact&theme=dark)
