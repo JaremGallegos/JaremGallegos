@@ -1,4 +1,4 @@
-## Hi there <img src="https://media.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif" width="30">, I'm Jarem Gallegos
+## Hi there!<img src="https://media.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif" width="30">, I'm Jarem Gallegos
 
 
 # ![Banner de Jarem Gallegos] ()
