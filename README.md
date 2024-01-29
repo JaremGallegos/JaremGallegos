@@ -1,6 +1,5 @@
-## Hi there, I'm Jarem Gallegos
+## Hi there <img src="https://media.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif" width="30">, I'm Jarem Gallegos
 
-# <img src="https://media.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif" width="100">
 
 # ![Banner de Jarem Gallegos] ()
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaremgallegos/)
