@@ -6,10 +6,6 @@
 ## A Little mora about me
 Computer science student with extensive knowledge in web technology development and strongly-typed programming languages. My focus lies in efficient problem-solving and the practical application of key concepts. Experience in web application development and solid skills in algorithms. Committed to excellence, I am ready to contribute with enthusiasm and technical expertise in challenging professional environments.
 
-
-
-# ![Banner de Jarem Gallegos] ()
->>>>>>> c0b3c0f33d925eb2e75b06757c93ce79ce224199
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaremgallegos/)
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 ![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
