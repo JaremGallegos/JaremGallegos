@@ -1,7 +1,6 @@
 
-<p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=28B463&center=true&vCenter=true&random=false&width=435&lines=Jarem+Gallegos" alt="Typing SVG" /></a>
-</p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=28B463&random=false&width=435&lines=Jarem+Gallegos" alt="Typing SVG" /></a> <br>
+**`Digital Craftsman (Developer/Filmmaker/Creator)`**
 
 <!-- Social icons section -->
 <p align="center">
@@ -20,28 +19,16 @@
 
 <br/>
 
-<!-- Social badges section -->
-<!-- Badges with custom icons - https://github.com/DenverCoder1/custom-icon-badges -->
-<!-- View counter - https://github.com/DenverCoder1/Simple-View-Counter -->
-<p align="center">
-  <a href="https://www.youtube.com/c/DevProTips?sub_confirmation=1">
-    <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://freshidea.com/jonah/app/youtube-stats-badges/subscribers-badge.php"/></a>
-  <a href="https://www.youtube.com/c/DevProTips">
-    <img alt="youtube views" title="YouTube views" src="https://freshidea.com/jonah/app/youtube-stats-badges/view-count-badge.php"/></a> 
-  <a href="https://github.com/DenverCoder1?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/DenverCoder1?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-  <a href="https://github.com/DenverCoder1?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/DenverCoder1?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-  <a href="https://github.com/DenverCoder1/Simple-View-Counter">
-    <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/DenverCoder1-profile-views"/></a>
-</p>
+<details open>
+    <summary><h2>👨‍💻 A Little About Me</h2></summary>
+    <p>
+    Computer science student with extensive knowledge in web technology development and strongly-typed programming languages. My focus lies in efficient problem-solving and the practical application of key concepts. Experience in web application development and solid skills in algorithms. Committed to excellence, I am ready to contribute with enthusiasm and technical expertise in challenging professional environments.</p>
+</details>
 
-<br/>
-
-<!-- GitHub Star link -->
+<!-- Message center -->
 <p align="center">
   <a href="https://stars.github.com/profiles/denvercoder1/">
-    <img src="Jarem.gif" alt="GitHub Star 2023"/></a>
+    <img src="Jarem.gif" alt="Message Jarem"/></a>
 </p>
 
 
@@ -67,27 +54,6 @@
 </details>
 
 <details open> 
-  <summary><h2>📕 Top Projects I've Contributed To</h2></summary>
-
-  <!-- Small repo cards https://github.com/DenverCoder1/github-readme-stats (fork of anuraghazra/github-readme-stats) -->
-  <p align="left">
-    <a href="https://github.com/pallets/flask"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=pallets&repo=flask&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="flask"></a>
-    <a href="https://github.com/badges/shields"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=badges&repo=shields&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="shields"></a>
-    <a href="https://github.com/simple-icons/simple-icons"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=simple-icons&repo=simple-icons&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="simple-icons"></a>
-    <a href="https://github.com/Rapptz/discord.py"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Rapptz&repo=discord.py&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="discord.py"></a>
-    <a href="https://github.com/o2sh/onefetch"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=o2sh&repo=onefetch&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="onefetch"></a>
-    <a href="https://github.com/scrapinghub/dateparser"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=scrapinghub&repo=dateparser&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="dateparser"></a>
-    <a href="https://github.com/python-babel/babel"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=python-babel&repo=babel&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="babel"></a>
-    <a href="https://github.com/nextcord/nextcord"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=nextcord&repo=nextcord&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="nextcord"></a>
-    <a href="https://github.com/PyCQA/autoflake"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=PyCQA&repo=autoflake&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="autoflake"></a>
-  </p>
-
-  <p align="left">
-    <a href="https://github.com/DenverCoderOne/My-Contributions/blob/main/README.md"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Forks-1F222E?style=for-the-badge&logoColor=white&logo=fork"/></a>
-  </p>
-</details>
-
-<details> 
   <summary><h2>📺 Latest YouTube Videos</h2></summary>
 
   <!-- YouTube Cards - https://github.com/DenverCoder1/github-readme-youtube-cards -->
@@ -109,7 +75,7 @@
   
 </details>
 
-<details> 
+<details open> 
   <summary><h2>🛠️ My Favorite Tools</h2></summary>
   <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
 
