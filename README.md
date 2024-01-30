@@ -33,8 +33,10 @@
   <img src="PhraseBanner.gif" alt="Message Jarem"/>
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+<p align = 'center'>
+    <img src='https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jaremgallegos&count_private=true&include_all_commits=true&show_icons=true&theme=transparent' width='380'/>
+    <img src='https://github-readme-streak-stats.herokuapp.com/?user=jaremgallegos&theme=transparent' width='400'>
+</p>
 
 <h2>🛠️ My Favorite Tools</h2>
 <h3>👨‍💻 Programming and Markup Languages</h3>
