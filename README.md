@@ -19,7 +19,7 @@
 
 <br/>
 
-<h2>👨‍💻 A Little More About This repositorie</h2>
+<h2>👨‍💻 A Little More About This Repository</h2>
 <p>
     A warm greeting! Welcome to my repository. This space will be used to share projects in applied computer science across various domains such as frontend, backend, cloud, among others. In the field of electronics, projects focused on application and device creation using Arduino and industrial electronics will be carried out. Regarding networks, projects will be developed to facilitate communication integration among diverse hardware and software devices.
 </p>
