@@ -19,9 +19,9 @@
 
 <br/>
 
-<h2>👨‍💻 A Little More About Me</h2>
+<h2>👨‍💻 A Little More About This repositorie</h2>
 <p>
-    Computer science student with extensive knowledge in web technology development and strongly-typed programming languages. My focus lies in efficient problem-solving and the practical application of key concepts. Experience in web application development and solid skills in algorithms. Committed to excellence, I am ready to contribute with enthusiasm and technical expertise in challenging professional environments.
+    A warm greeting! Welcome to my repository. This space will be used to share projects in applied computer science across various domains such as frontend, backend, cloud, among others. In the field of electronics, projects focused on application and device creation using Arduino and industrial electronics will be carried out. Regarding networks, projects will be developed to facilitate communication integration among diverse hardware and software devices.
 </p>
 
 
