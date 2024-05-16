@@ -1,6 +1,6 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=28B463&random=false&width=435&lines=Jarem+Gallegos" alt="Typing SVG" /></a><br>
-**`Multipurpose Engineer (Developer/Researcher/Polyglot)`**
+** `Multipurpose Engineer (Computer Science / Electronics / Networks and Communications)` **
 
 <!-- Social icons section -->
 <p align="left">
