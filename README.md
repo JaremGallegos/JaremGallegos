@@ -1,9 +1,10 @@
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=38&duration=3500&pause=1500&color=F7F7F7&center=true&vCenter=true&random=false&width=800&height=60&lines=Hi+there!+I'm+pigolitsyn_m%F0%9F%91%8B" />
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=38&duration=3500&pause=1500&color=F7F7F7&center=true&vCenter=true&random=false&width=800&height=60&lines=Hi+there!+I'm+Mistral%F0%9F%91%8B" />
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=38&duration=3500&pause=1500&color=F7F7F7&center=true&vCenter=true&random=false&width=800&height=60&lines=Hi+there!+I'm+Joseph%F0%9F%91%8B" />
   </picture>
 </div>
+
 `Multipurpose Engineer (Computer Science / Electronics / Networks and Communications)`
 
 <!-- Social icons section -->
