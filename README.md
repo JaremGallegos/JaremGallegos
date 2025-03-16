@@ -19,7 +19,8 @@
     <a href="https://codepen.io/JaremGallegos/"><img alt="CodePen" src="https://img.shields.io/badge/-CODEPEN-%23000000?style=for-the-badge&logo=CodePen&link=https%3A%2F%2Fcodepen.io%2FJaremGallegos"></a>
     <a href="https://codeforces.com/profile/JaBroenMan/"><img alt="Codeforces" src="https://img.shields.io/badge/-CODEFORCES-%23000000?style=for-the-badge&logo=Codeforces&logoColor=%23ffffff&link=https%3A%2F%2Fcodeforces.com%2Fprofile%2FJaBroenMan"></a>
     <a href="https://www.codewars.com/users/JaremGallegos/stats/"><img alt="Codewars" src="https://img.shields.io/badge/-CODEWARS-%23000000?style=for-the-badge&logo=Codewars&logoColor=%23ffffff&link=https%3A%2F%2Fcodeforces.com%2Fprofile%2FJaBroenMan"></a>
-    <a href="https://platform.stratascratch.com/user/Jarem/"><img alt="Static Badge" src="https://img.shields.io/badge/-STRATASCRATCH-%23000000?style=for-the-badge&logo=NextBillion.ai&logoColor=%23ffffff&link=https%3A%2F%2Fplatform.stratascratch.com%2Fuser%2FJarem"></a>
+    <a href="https://platform.stratascratch.com/user/Jarem/"><img alt="Stratascratch" src="https://img.shields.io/badge/-STRATASCRATCH-%23000000?style=for-the-badge&logo=NextBillion.ai&logoColor=%23ffffff&link=https%3A%2F%2Fplatform.stratascratch.com%2Fuser%2FJarem"></a>
+    <a href="https://es.stackoverflow.com/users/270093/joseph-gallegos/"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-%23000000?style=for-the-badge&logo=stackoverflow&logoColor=%23ffffff&link=https%3A%2F%2Fes.stackoverflow.com%2Fusers%2F270093%2Fjoseph-gallegos"></a>
   </p>
 </div>
 
