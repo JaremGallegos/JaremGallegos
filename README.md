@@ -72,7 +72,7 @@ Projetos em destaque: [Rocket](https://www.spacex.com/), [Marte](<https://pt.wik
 
 **Frot-end Developer (Jr)** \
 [**Rocketseat**](https://rocketseat.com.br/) • Contract \
-Linguagens & Tecnologias: `JavaScript`, `Node`, `React`\
+Linguagens & Tecnologias: <img alt="Follow" src="https://img.shields.io/github/followers/BenjaminMichaelis.svg?style=social&label=Follow&link=https://www.github.com/BenjaminMichaelis" width="80px"/>\
 Projetos em destaque: [Ignite](), [Bootcamp]()
 <br/>
 
