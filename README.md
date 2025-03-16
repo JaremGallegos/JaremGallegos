@@ -37,7 +37,7 @@ I'm a full-time software developer at <a href="https://github.com/intelliTect">@
 In my free time I love the outdoors, being active, as well as connecting with friends and family.
 </samp>
 
-<br>
+<br/>
 
 <samp>
 
