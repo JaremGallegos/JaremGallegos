@@ -9,7 +9,7 @@
 <div align="center">
   <!-- Redes Sociales -->
   <p>
-    <a href="https://mistral.mi"><img alt="Portafolio de Proyectos" src="https://img.shields.io/badge/-%C2%A1Con%C3%B3ceme!-41454A?style=flat-square&logo=Awwwards&logoColor=41454A&labelColor=FFFFFF&link=https%3A%2F%2Fmistral.mi"></a>
+    <a href="https://josephgallegos.my"><img alt="Portafolio de Proyectos" src="https://img.shields.io/badge/-%C2%A1Con%C3%B3ceme!-41454A?style=flat-square&logo=Awwwards&logoColor=41454A&labelColor=FFFFFF&link=https%3A%2F%2Fmistral.mi"></a>
     <a href="https://www.linkedin.com/in/jaremgallegos/"><img alt="Linkedin" src="https://img.shields.io/badge/-%40jaremgallegos-FFFFFF?style=flat-square&logo=LogMeIn&logoColor=FFFFFF&labelColor=0073B2&link=www.linkedin.com%2Fin%2Fjaremgallegos"></a>
     <a href="https://www.youtube.com/@JaremJ.Gallegos"><img alt="Youtube" src="https://img.shields.io/badge/-%40JaremJ.Gallegos-FF0000?style=flat-square&logo=Youtube&logoColor=FF0000&labelColor=FFFFFF&link=https%3A%2F%2Fwww.youtube.com%2F%40JaremJ.Gallegos"></a> 
     <a href="https://twitter.com/Jarem_Gallegos"><img alt="Twitter" src="https://img.shields.io/badge/-%40Jarem_Gallegos-%23000000?style=flat-square&logo=X&logoColor=%23000000&labelColor=FFFFFF&link=https%3A%2F%2Ftwitter.com%2FJarem_Gallegos"></a> 
@@ -27,8 +27,8 @@
 <br/>
 
 <h2>👨‍💻 A Little More About This Repository</h2>
-<a href="https://www.benjamin.michaelis.net">
-  <img align="left" width="35%" src="https://private-user-images.githubusercontent.com/139504059/423187798-8dcca9bb-1fb2-445c-bfd3-04ed10fd367a.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDIxMDQwNTgsIm5iZiI6MTc0MjEwMzc1OCwicGF0aCI6Ii8xMzk1MDQwNTkvNDIzMTg3Nzk4LThkY2NhOWJiLTFmYjItNDQ1Yy1iZmQzLTA0ZWQxMGZkMzY3YS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwMzE2JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDMxNlQwNTQyMzhaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT02NWQwNTM0M2JjMDg2MjJhNGU3NjhiN2Y2NjBhMDNmOTc5MDFmZDUyN2VjMGQ5MzgzMjQxOTY5OTE5YWI5NjYxJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.I37JIv3N0vquLmKYWRwWYQgVoXuA1be5_9XNRSgFqHQ">
+<a href="https://josephgallegos.my">
+  <img align="left" width="45%" src="https://private-user-images.githubusercontent.com/139504059/423187798-8dcca9bb-1fb2-445c-bfd3-04ed10fd367a.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDIxMDQwNTgsIm5iZiI6MTc0MjEwMzc1OCwicGF0aCI6Ii8xMzk1MDQwNTkvNDIzMTg3Nzk4LThkY2NhOWJiLTFmYjItNDQ1Yy1iZmQzLTA0ZWQxMGZkMzY3YS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwMzE2JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDMxNlQwNTQyMzhaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT02NWQwNTM0M2JjMDg2MjJhNGU3NjhiN2Y2NjBhMDNmOTc5MDFmZDUyN2VjMGQ5MzgzMjQxOTY5OTE5YWI5NjYxJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.I37JIv3N0vquLmKYWRwWYQgVoXuA1be5_9XNRSgFqHQ">
 </a>
 
 <samp>
