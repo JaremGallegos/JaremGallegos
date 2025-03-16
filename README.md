@@ -49,8 +49,12 @@ In my free time I love the outdoors, being active, as well as connecting with fr
   
 </samp>
 
-<h2>👨‍💻 A Little More About This Repository</h2>
-<!-- Mis Proyectos Destacados -->
+<!-- Message center -->
+<p align="center">
+  <img src="PhraseBanner.gif" alt="Message Jarem"/>
+</p>
+
+<!-- Mis Proyectos-->
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://www.spacex.com/static/images/share.jpg"/>](https://www.spacex.com/)
@@ -77,6 +81,7 @@ Linguagens & Tecnologias: `React Native`, `Node`, `Swift`, `Kotlin`, `OpenShift`
 Projetos em destaque: [App](https://nubank.com.br/)
 <br/>
 <br/>
+
 
 
 <h2>📺 Latest YouTube Videos</h2>
