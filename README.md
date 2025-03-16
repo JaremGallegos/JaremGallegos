@@ -9,7 +9,7 @@
 <div align="center">
   <p>
     <a href="https://mistral.mi"><img alt="Static Badge" src="https://img.shields.io/badge/-mistral.com-31303A?style=flat-square&logo=Misskey&logoColor=ffffff&label=Mistral&link=https://mistral.mi" alt="Website Badge"></a>
-    <a href="www.linkedin.com/in/jaremgallegos"><img alt="Static Badge" src="https://img.shields.io/badge/-Linkedin-FFFFFF?style=flat-square&label=in&labelColor=0073B2&link=www.linkedin.com%2Fin%2Fjaremgallegos"></a>
+    <a href=""><img alt="Static Badge" src="https://img.shields.io/badge/-Linkedin-FFFFFF?style=flat-square&label=in&labelColor=0073B2&link=www.linkedin.com%2Fin%2Fjaremgallegos"></a>
     <a href="https://www.linkedin.com/in/serbis/"><img src="https://img.shields.io/badge/-@serbis-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/serbis/" alt="LinkedIn Badge"></a> 
     <a href="https://dev.to/spiderpig86"><img src="https://img.shields.io/badge/-@spiderpig86-0A0A0A?style=flat-square&amp;labelColor=0A0A0A&amp;logo=dev.to&amp;link=https://dev.to/spiderpig86" alt="DevTo Badge"></a> 
     <a href="https://open.spotify.com/user/1235099575"><img src="https://img.shields.io/badge/-@Stanley%20Lim-1ED760?style=flat-square&amp;labelColor=fff&amp;logo=Spotify&amp;link=https://open.spotify.com/user/1235099575" alt="Spotify Badge"></a>
