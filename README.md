@@ -63,7 +63,7 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 
 **Software Engineer** \
 [**SpaceX**](https://www.spacex.com/) • Full-time \
-Linguagens & Tecnologias: `![Static Badge](https://img.shields.io/badge/-Python-%23FFFFFF?style=flat-square&logo=python)`, `Django`, `C++`, `JavaScript`, `GoLang`, `SaltStack`,\
+Linguagens & Tecnologias: ![Static Badge](https://img.shields.io/badge/-Python-%23FFFFFF?style=flat-square&logo=python), ![Static Badge](https://img.shields.io/badge/-Django-%23FFFFFF?style=flat-square&logo=django&logoColor=%23092E20), `C++`, `JavaScript`, `GoLang`, `SaltStack`,\
 Projetos em destaque: [Rocket](https://www.spacex.com/), [Marte](<https://pt.wikipedia.org/wiki/Marte_(planeta)>)
 <br/>
 
