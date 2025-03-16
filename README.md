@@ -98,6 +98,6 @@ Projetos em destaque: [App](https://nubank.com.br/)
 </a>
 
 ## 📈 Repository and User Contribution Statistics
-[![GitStats Overview](https://raw.githubusercontent.com/R055A/GitStats/actions_branch/generated_images/overview.svg "R055A/GitStats")![GitStats Languages](https://raw.githubusercontent.com/R055A/GitStats/actions_branch/generated_images/languages.svg "R055A/GitStats")](https://github.com/R055A/GitStats)
+![GitStats Languages](https://raw.githubusercontent.com/R055A/GitStats/actions_branch/generated_images/languages.svg "R055A/GitStats")](https://github.com/R055A/GitStats)
 
 [![Git Stats Images](https://github.com/R055A/GitStats/actions/workflows/auto_update_stat_images.yml/badge.svg)](https://github.com/R055A/GitStats) [![Repo Activity Stats](https://github.com/R055A/R055A/actions/workflows/repo_activity_stats.yml/badge.svg)](https://github.com/R055A/R055A)
