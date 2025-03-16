@@ -98,4 +98,4 @@ Projetos em destaque: [App](https://nubank.com.br/)
 </a>
 
 ## 📈 Repository and User Contribution Statistics
-[![GitStats Overview](https://raw.githubusercontent.com/JaremGallegos/GitStats/actions_branch/generated_images/overview.svg "R055A/GitStats")![GitStats Languages](https://raw.githubusercontent.com/JaremGallegos/GitStats/actions_branch/generated_images/languages.svg "R055A/GitStats")](https://github.com/R055A/GitStats)
+[![GitStats Overview](https://raw.githubusercontent.com/R055A/GitStats/actions_branch/generated_images/overview.svg "JaremGallegos/GitStats")![GitStats Languages](https://raw.githubusercontent.com/R055A/GitStats/actions_branch/generated_images/languages.svg "JaremGallegos/GitStats")](https://github.com/JaremGallegos/GitStats)
