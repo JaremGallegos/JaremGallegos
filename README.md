@@ -49,45 +49,8 @@ In my free time I love the outdoors, being active, as well as connecting with fr
   
 </samp>
 
-
-
-<!-- Message center -->
-<p align="center">
-  <img src="PhraseBanner.gif" alt="Message Jarem"/>
-</p>
-
-<p align = 'center'>
-    <img src='https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jaremgallegos&count_private=true&include_all_commits=true&show_icons=true&theme=transparent' width='380'/>
-    <img src='https://github-readme-streak-stats.herokuapp.com/?user=jaremgallegos&theme=transparent' width='400'>
-</p>
-
-<h2>🛠️ My Favorite Tools</h2>
-<h3>👨‍💻 Programming and Markup Languages</h3>
-
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-
-<h3>🧰 Frameworks and Libraries</h3>
-
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-
-
-<h3>🗄️ Databases and Cloud Hosting</h3>
-
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
-<h3>💻 Software and Tools</h3>
-
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
-
-
-<!-- My Top OSP -->
+<h2>👨‍💻 A Little More About This Repository</h2>
+<!-- Mis Proyectos Destacados -->
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://www.spacex.com/static/images/share.jpg"/>](https://www.spacex.com/)
