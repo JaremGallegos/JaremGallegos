@@ -4,9 +4,9 @@
     <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=38&duration=3500&pause=1500&color=F7F7F7&center=true&vCenter=true&random=false&width=800&height=60&lines=Hi+there!+I'm+Joseph%F0%9F%91%8B" />
   </picture>
   <br>
+  <p style="text-align: center;">A piece of centered text</p>
 </div>
 
-`Swift`
 <!-- Badges de Redes Sociales -->
 <div align="center">
   <!-- Redes Sociales -->
