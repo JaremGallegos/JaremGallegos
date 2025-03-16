@@ -72,7 +72,7 @@ Projetos em destaque: [Rocket](https://www.spacex.com/), [Marte](<https://pt.wik
 
 **Frot-end Developer (Jr)** \
 [**Rocketseat**](https://rocketseat.com.br/) • Contract \
-Linguagens & Tecnologias: <img alt="Follow" src="https://img.shields.io/github/followers/BenjaminMichaelis.svg?style=social&label=Follow&link=https://www.github.com/BenjaminMichaelis" width="80px"/> <img alt="Django" src="https://custom-icon-badges.demolab.com/badge/Django-E61B23.svg?logo=django-icon-402x512-n9dx6ncj-405"> \
+Linguagens & Tecnologias: <img alt="Follow" src="https://img.shields.io/github/followers/BenjaminMichaelis.svg?style=social&label=Follow&link=https://www.github.com/BenjaminMichaelis" width="80px"/> <img alt="Django" src="https://custom-icon-badges.demolab.com/badge/Django-FFFFFF.svg?logo=django-icon-402x512-n9dx6ncj-405"> \
 Projetos em destaque: [Ignite](), [Bootcamp]()
 <br/>
 
