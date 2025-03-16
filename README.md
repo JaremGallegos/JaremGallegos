@@ -17,7 +17,7 @@
   </p>
   <!-- Perfiles -->
   <p>
-    
+    <a href="https://leetcode.com/JaremGallegos/"><img alt="Leetcode" src="https://img.shields.io/badge/-LEETCODE-%23000000?style=for-the-badge&logo=LeetCode&link=https%3A%2F%2Fleetcode.com%2FJaremGallegos%2F"></a>
   </p>
 </div>
 
