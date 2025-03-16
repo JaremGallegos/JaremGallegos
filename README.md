@@ -33,7 +33,7 @@
 </a>
 
 <samp>
-I'm a full-time software developer at <a href="https://github.com/intelliTect">@IntelliTect</a>, <a href="https://wsu.edu/">WSU-Pullman<img src="https://raw.githubusercontent.com/BenjaminMichaelis/BenjaminMichaelis/master/Images/WSULogo.png" width="18px"/></a> alum (Go Cougs!), and part-time adventure seeker/traveler.
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJaremGallegos&count_bg=%233C3F41&title_bg=%23555555&icon=superuser.svg&icon_color=%23E7E7E7&title=usuario&edge_flat=true"/></a> I'm a full-time software developer at <a href="https://github.com/intelliTect">@IntelliTect</a>, <a href="https://wsu.edu/">WSU-Pullman<img src="https://raw.githubusercontent.com/BenjaminMichaelis/BenjaminMichaelis/master/Images/WSULogo.png" width="18px"/></a> alum (Go Cougs!), and part-time adventure seeker/traveler.
 In my free time I love the outdoors, being active, as well as connecting with friends and family.
 </samp>
 
