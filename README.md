@@ -37,6 +37,8 @@ I'm a full-time software developer at <a href="https://github.com/intelliTect">@
 In my free time I love the outdoors, being active, as well as connecting with friends and family.
 </samp>
 
+<br>
+
 <samp>
 
 [📷](https://www.photography.michaelis.net/) Catch me taking some <a href="https://photography.michaelis.net/">pictures</a> in my free time <br>
