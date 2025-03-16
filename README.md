@@ -100,4 +100,5 @@ Projetos em destaque: [App](https://nubank.com.br/)
 ## 📈 Repository and User Contribution Statistics
 <a>
   <img src="https://api.githubtrends.io/user/svg/JaremGallegos/langs?time_range=one_year&loc_metric=changed&compact=True&theme=dark" />
+  <img src="https://api.githubtrends.io/user/svg/JaremGallegos/repos?time_range=one_year&group=other&loc_metric=changed&theme=dark" />
 </a>
