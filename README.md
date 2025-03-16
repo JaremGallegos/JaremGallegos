@@ -26,6 +26,7 @@
 
 <br/>
 
+<!-- Descripcon mas sobre mi -->
 <h2>👨‍💻 A Little More About This Repository</h2>
 <a href="https://josephgallegos.my">
   <img align="left" width="25%" src="https://private-user-images.githubusercontent.com/139504059/423187798-8dcca9bb-1fb2-445c-bfd3-04ed10fd367a.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDIxMDQwNTgsIm5iZiI6MTc0MjEwMzc1OCwicGF0aCI6Ii8xMzk1MDQwNTkvNDIzMTg3Nzk4LThkY2NhOWJiLTFmYjItNDQ1Yy1iZmQzLTA0ZWQxMGZkMzY3YS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwMzE2JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDMxNlQwNTQyMzhaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT02NWQwNTM0M2JjMDg2MjJhNGU3NjhiN2Y2NjBhMDNmOTc5MDFmZDUyN2VjMGQ5MzgzMjQxOTY5OTE5YWI5NjYxJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.I37JIv3N0vquLmKYWRwWYQgVoXuA1be5_9XNRSgFqHQ">
@@ -35,10 +36,6 @@
 I'm a full-time software developer at <a href="https://github.com/intelliTect">@IntelliTect</a>, <a href="https://wsu.edu/">WSU-Pullman<img src="https://raw.githubusercontent.com/BenjaminMichaelis/BenjaminMichaelis/master/Images/WSULogo.png" width="18px"/></a> alum (Go Cougs!), and part-time adventure seeker/traveler.
 In my free time I love the outdoors, being active, as well as connecting with friends and family.
 </samp>
-
-<h2>
-Find me around the web 🌎:
-</h2>
 
 <samp>
 
