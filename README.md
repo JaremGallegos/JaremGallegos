@@ -17,7 +17,7 @@
     <br>
     <a href="https://leetcode.com/JaremGallegos/"><img alt="Leetcode" src="https://img.shields.io/badge/-LEETCODE-%23000000?style=for-the-badge&logo=LeetCode&link=https%3A%2F%2Fleetcode.com%2FJaremGallegos%2F"></a>
     <a href="https://codepen.io/JaremGallegos/"><img alt="CodePen" src="https://img.shields.io/badge/-CODEPEN-%23000000?style=for-the-badge&logo=CodePen&link=https%3A%2F%2Fcodepen.io%2FJaremGallegos"></a>
-    <a href="https://codeforces.com/profile/JaBroenMan/"><img alt="Static Badge" src="https://img.shields.io/badge/-CODEFORCES-%23000000?style=for-the-badge&logo=Codeforces&logoColor=%231F8ACB&link=https%3A%2F%2Fcodeforces.com%2Fprofile%2FJaBroenMan"></a>
+    <a href="https://codeforces.com/profile/JaBroenMan/"><img alt="Codeforces" src="https://img.shields.io/badge/-CODEFORCES-%23000000?style=for-the-badge&logo=Codeforces&logoColor=%23ffff7b&link=https%3A%2F%2Fcodeforces.com%2Fprofile%2FJaBroenMan"></a>
     <a href=""></a>
   </p>
 </div>
