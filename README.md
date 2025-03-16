@@ -19,14 +19,9 @@
     <a href="https://codepen.io/JaremGallegos/"><img alt="CodePen" src="https://img.shields.io/badge/-CODEPEN-%23000000?style=for-the-badge&logo=CodePen&link=https%3A%2F%2Fcodepen.io%2FJaremGallegos"></a>
     <a href="https://codeforces.com/profile/JaBroenMan/"><img alt="Codeforces" src="https://img.shields.io/badge/-CODEFORCES-%23000000?style=for-the-badge&logo=Codeforces&logoColor=%23ffffff&link=https%3A%2F%2Fcodeforces.com%2Fprofile%2FJaBroenMan"></a>
     <a href="https://www.codewars.com/users/JaremGallegos/stats/"><img alt="Codewars" src="https://img.shields.io/badge/-CODEWARS-%23000000?style=for-the-badge&logo=Codewars&logoColor=%23ffffff&link=https%3A%2F%2Fcodeforces.com%2Fprofile%2FJaBroenMan"></a>
+    <a href="https://platform.stratascratch.com/user/Jarem/"><img alt="Static Badge" src="https://img.shields.io/badge/-STRATASCRATCH-%23000000?style=for-the-badge&logo=NextBillion.ai&logoColor=%23ffffff&link=https%3A%2F%2Fplatform.stratascratch.com%2Fuser%2FJarem"></a>
   </p>
 </div>
-
-<!-- Social icons section -->
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/JaremGallegos/)
-[![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/JaremGallegos)
-[![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)](https://www.codewars.com/users/JaremGallegos/stats)
-[![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/jaremgallegosp1)
 
 <br/>
 
