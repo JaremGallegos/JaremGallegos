@@ -61,10 +61,10 @@ This repository serves as a collection of my work, showcasing my contributions a
 <!-- Mis Proyectos-->
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://www.spacex.com/static/images/share.jpg"/>](https://www.spacex.com/)
 
-**Software Engineer** \
-[**SpaceX**](https://www.spacex.com/) • Full-time \
-Linguagens & Tecnologias: \
-Projetos em destaque: [Rocket](https://www.spacex.com/), [Marte](<https://pt.wikipedia.org/wiki/Marte_(planeta)>)
+**TimeGo : A Time Program** \
+[**TimeGo**](https://www.spacex.com/) • 150hrs \
+Languages ​​and Technologies: \
+Featured Projects: [Rocket](https://www.spacex.com/), [Marte](<https://pt.wikipedia.org/wiki/Marte_(planeta)>)
 <br/>
 
 
