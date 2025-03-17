@@ -78,7 +78,7 @@ Project Documentation: [Rocket](https://www.spacex.com/), [Marte](<https://pt.wi
 
 
 
-[<img align="left" height="94px" width="94px" alt="Nubank" src="https://nubank.com.br/images/nu-icon.png?v=2"/>](https://nubank.com.br/)
+[<img align="left" height="94px" width="94px" alt="Nubank" src="https://avatars.githubusercontent.com/u/203598484?s=400&u=e585c12a4d77b8799213b86d7bb7fd004f6b3f0a&v=4"/>](https://nubank.com.br/)
 
 **TimeGo : A Time Program** \
 [**TimeGo**](https://www.spacex.com/) • 150hrs \
