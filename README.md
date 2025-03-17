@@ -38,14 +38,13 @@
 👋 Welcome user <img align="center" width="12%" src="https://profile-counter.glitch.me/iuricode/count.svg" alt="Número de visitantes no perfil"/> here. I'm a software and systems developer with a strong focus on reliability, quality, and security. I work within the DevSecOps framework to ensure every solution meets high standards of security and efficiency.
 </samp>
 
-<h5>📌 About This Repository</h5>
+<h4>📌 About This Repository</h4>
 <samp>
 This repository serves as a collection of my work, showcasing my contributions and projects in software development, cloud automation, and enterprise applications. You’ll find:<br>
 ✅ Code samples and tools for COBOL, CICS, DB2, and mainframe-related projects.<br>
 ✅ Infrastructure as Code (IaC) examples using Terraform for cloud automation.<br>
 ✅ Python scripts and automation solutions for Cisco DevNet and network programmability.<br>
 ✅ Business applications and backend services built with .NET and Java.<br>
-✅ Security-focused development approaches aligned with DevSecOps best practices.
 </samp><br>
 
 <!-- Message center -->
