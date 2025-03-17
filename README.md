@@ -84,7 +84,7 @@ Featured Projects: [Rocket](https://www.spacex.com/), [Marte](<https://pt.wikipe
 [**TimeGo**](https://www.spacex.com/) • 150hrs \
 Languages ​​and Technologies: `React Native`, `Node`, `Swift`, `Kotlin`, `OpenShift` \
 Featured Projects: [Rocket](https://www.spacex.com/), [Marte](<https://pt.wikipedia.org/wiki/Marte_(planeta)>)
-<br/>
+<br/><br/>
 
 </div>
 
