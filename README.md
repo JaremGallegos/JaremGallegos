@@ -39,21 +39,15 @@
 </samp>
 
 <h4>📌 About This Repository</h4>
+<samp>
 This repository serves as a collection of my work, showcasing my contributions and projects in software development, cloud automation, and enterprise applications. You’ll find:<br>
 ✅ Code samples and tools for COBOL, CICS, DB2, and mainframe-related projects.<br>
 ✅ Infrastructure as Code (IaC) examples using Terraform for cloud automation.<br>
 ✅ Python scripts and automation solutions for Cisco DevNet and network programmability.<br>
 ✅ Business applications and backend services built with .NET and Java.<br>
 ✅ Security-focused development approaches aligned with DevSecOps best practices.
-
-<samp>
-[📷](https://www.photography.michaelis.net/) Catch me taking some <a href="https://photography.michaelis.net/">pictures</a> in my free time <br>
-[🧑‍💻](https://www.github.com/BenjaminMichaelis)  Follow to keep up to date on how I am contributing: <a href="https://www.github.com/BenjaminMichaelis"><img alt="Follow" src="https://img.shields.io/github/followers/BenjaminMichaelis.svg?style=social&label=Follow&link=https://www.github.com/BenjaminMichaelis" width="80px"/></a><br>
-[🎧](https://open.spotify.com/user/1251087721?si=iMDle1guQ6SY4gFpKHRfEA) Check out what I'm listening to on <a href="https://open.spotify.com/user/1251087721?si=de5c4e6cdc8a405d"><img alt="Spotify" src="https://img.shields.io/badge/-Spotify-1ED760?style=flat&logo=Spotify&logoColor=white&link=https://open.spotify.com/user/1251087721?si=iMDle1guQ6SY4gFpKHRfEA" width="65px"/></a><br>
-[🚴](https://www.strava.com/athletes/benjamin_michaelis) See what adventures I have been up to on <a href="https://www.strava.com/athletes/benjamin_michaelis"><img alt="Strava" src="https://img.shields.io/badge/-Strava-orange?style=flat&logo=Strava&logoColor=white&link=https://www.strava.com/athletes/benjamin_michaelis" width="60px"/></a><br>
-[📖](https://www.goodreads.com/user/show/127859004-benjamin-michaelis) Reading: Hard to keep up to date so find me on <a href="https://www.goodreads.com/user/show/127859004-benjamin-michaelis"><img alt="Goodreads" src="https://img.shields.io/badge/-Goodreads-e9e5d0?style=flat&logo=goodreads&logoColor=956f46&link=https://www.goodreads.com/user/show/127859004-benjamin-michaelis" width="80px"/></a><br>
-☕️ Always up for coffee if you're around!
 </samp>
+
 
 <!-- Message center -->
 <p align="center">
