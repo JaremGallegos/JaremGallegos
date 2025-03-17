@@ -64,7 +64,7 @@ This repository serves as a collection of my work, showcasing my contributions a
 **TimeGo : A Time Program** \
 [**TimeGo**](https://www.spacex.com/) • 150hrs \
 Languages ​​and Technologies: `React Native`, `Node`, `Swift`, `Kotlin`, `OpenShift` \
-Featured Projects: [Rocket](https://www.spacex.com/), [Marte](<https://pt.wikipedia.org/wiki/Marte_(planeta)>)
+Project Documentation: [Rocket](https://www.spacex.com/), [Marte](<https://pt.wikipedia.org/wiki/Marte_(planeta)>)
 <br/>
 
 
@@ -73,7 +73,7 @@ Featured Projects: [Rocket](https://www.spacex.com/), [Marte](<https://pt.wikipe
 **TimeGo : A Time Program** \
 [**TimeGo**](https://www.spacex.com/) • 150hrs \
 Languages ​​and Technologies: `React Native`, `Node`, `Swift`, `Kotlin`, `OpenShift` \
-Featured Projects: [Rocket](https://www.spacex.com/), [Marte](<https://pt.wikipedia.org/wiki/Marte_(planeta)>)
+Project Documentation: [Rocket](https://www.spacex.com/), [Marte](<https://pt.wikipedia.org/wiki/Marte_(planeta)>)
 <br/>
 
 
@@ -83,7 +83,7 @@ Featured Projects: [Rocket](https://www.spacex.com/), [Marte](<https://pt.wikipe
 **TimeGo : A Time Program** \
 [**TimeGo**](https://www.spacex.com/) • 150hrs \
 Languages ​​and Technologies: `React Native`, `Node`, `Swift`, `Kotlin`, `OpenShift` \
-Featured Projects: [Rocket](https://www.spacex.com/), [Marte](<https://pt.wikipedia.org/wiki/Marte_(planeta)>)
+Project Documentation: [Rocket](https://www.spacex.com/), [Marte](<https://pt.wikipedia.org/wiki/Marte_(planeta)>)
 <br/><br/>
 
 </div>
