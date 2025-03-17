@@ -52,7 +52,7 @@ This repository serves as a collection of my work, showcasing my contributions a
   <img src="PhraseBanner.gif" alt="Message Jarem"/>
 </p>
 
-<div>
+<div style="margin-bottom: 10px;">
   <h4>📌 Recent Projects</h4>
   <samp>In the following general description, you will find the most recent projects I have developed and integrated as solutions. 🚀</samp>
 </div>
