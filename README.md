@@ -63,27 +63,27 @@ This repository serves as a collection of my work, showcasing my contributions a
 
 **TimeGo : A Time Program** \
 [**TimeGo**](https://www.spacex.com/) • 150hrs \
-Languages ​​and Technologies: \
+Languages ​​and Technologies: `React Native`, `Node`, `Swift`, `Kotlin`, `OpenShift` \
 Featured Projects: [Rocket](https://www.spacex.com/), [Marte](<https://pt.wikipedia.org/wiki/Marte_(planeta)>)
 <br/>
 
 
 [<img align="left" height="94px" width="94px" alt="Rocketseat" src="https://yt3.ggpht.com/ytc/AKedOLQkXnYChXAHOeBQLzwhk1_BHYgUXs6ITQOakoeNoQ=s900-c-k-c0x00ffffff-no-rj"/>](https://rocketseat.com.br/)
 
-**Frot-end Developer (Jr)** \
-[**Rocketseat**](https://rocketseat.com.br/) • Contract \
-Linguagens & Tecnologias: <img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white" width="50px"> <img alt="Django" src="https://custom-icon-badges.demolab.com/badge/Django-FFFFFF.svg?logo=django-icon-402x512-n9dx6ncj-405" width="50px"> \
-Projetos em destaque: [Ignite](), [Bootcamp]()
+**TimeGo : A Time Program** \
+[**TimeGo**](https://www.spacex.com/) • 150hrs \
+Languages ​​and Technologies: `React Native`, `Node`, `Swift`, `Kotlin`, `OpenShift` \
+Featured Projects: [Rocket](https://www.spacex.com/), [Marte](<https://pt.wikipedia.org/wiki/Marte_(planeta)>)
 <br/>
+
 
 
 [<img align="left" height="94px" width="94px" alt="Nubank" src="https://nubank.com.br/images/nu-icon.png?v=2"/>](https://nubank.com.br/)
 
-**Software Engineer** \
-[**Nubank**](https://nubank.com.br/) • Contract \
-Linguagens & Tecnologias: `React Native`, `Node`, `Swift`, `Kotlin`, `OpenShift` \
-Projetos em destaque: [App](https://nubank.com.br/)
-<br/>
+**TimeGo : A Time Program** \
+[**TimeGo**](https://www.spacex.com/) • 150hrs \
+Languages ​​and Technologies: `React Native`, `Node`, `Swift`, `Kotlin`, `OpenShift` \
+Featured Projects: [Rocket](https://www.spacex.com/), [Marte](<https://pt.wikipedia.org/wiki/Marte_(planeta)>)
 <br/>
 
 </div>
