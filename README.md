@@ -39,11 +39,11 @@
 </samp>
 
 <h4>📌 About This Repository</h4>
-This repository serves as a collection of my work, showcasing my contributions and projects in software development, cloud automation, and enterprise applications. You’ll find:
-✅ Code samples and tools for COBOL, CICS, DB2, and mainframe-related projects.
-✅ Infrastructure as Code (IaC) examples using Terraform for cloud automation.
-✅ Python scripts and automation solutions for Cisco DevNet and network programmability.
-✅ Business applications and backend services built with .NET and Java.
+This repository serves as a collection of my work, showcasing my contributions and projects in software development, cloud automation, and enterprise applications. You’ll find:<br>
+✅ Code samples and tools for COBOL, CICS, DB2, and mainframe-related projects.<br>
+✅ Infrastructure as Code (IaC) examples using Terraform for cloud automation.<br>
+✅ Python scripts and automation solutions for Cisco DevNet and network programmability.<br>
+✅ Business applications and backend services built with .NET and Java.<br>
 ✅ Security-focused development approaches aligned with DevSecOps best practices.
 
 <samp>
