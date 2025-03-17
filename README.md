@@ -54,7 +54,7 @@ This repository serves as a collection of my work, showcasing my contributions a
 
 <div style="margin-bottom: 10px;">
   <h4>📌 Recent Projects</h4>
-  <samp>In the following general description, you will find the most recent projects I have developed and integrated as solutions. 🚀</samp>
+  <samp>In the following general description, you will find the most recent projects I have developed and integrated as solutions for various organizations. 🚀</samp>
 </div>
 <div>
   
