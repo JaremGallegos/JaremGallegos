@@ -35,7 +35,7 @@
 </a>
 
 <samp>
-<img align="center" width="12%" src="https://profile-counter.glitch.me/iuricode/count.svg" alt="Número de visitantes no perfil"/> I'm a full-time software developer at <a href="https://github.com/intelliTect">@IntelliTect</a>, <a href="https://wsu.edu/">WSU-Pullman<img src="https://raw.githubusercontent.com/BenjaminMichaelis/BenjaminMichaelis/master/Images/WSULogo.png" width="18px"/></a> alum (Go Cougs!), and part-time adventure seeker/traveler.
+👋 Welcome <img align="center" width="12%" src="https://profile-counter.glitch.me/iuricode/count.svg" alt="Número de visitantes no perfil"/> I'm a full-time software developer at <a href="https://github.com/intelliTect">@IntelliTect</a>, <a href="https://wsu.edu/">WSU-Pullman<img src="https://raw.githubusercontent.com/BenjaminMichaelis/BenjaminMichaelis/master/Images/WSULogo.png" width="18px"/></a> alum (Go Cougs!), and part-time adventure seeker/traveler.
 In my free time I love the outdoors, being active, as well as connecting with friends and family.
 </samp>
 
