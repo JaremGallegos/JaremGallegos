@@ -55,7 +55,7 @@ This repository serves as a collection of my work, showcasing my contributions a
 
 <!-- Mis Proyectos-->
 <h4>📌 Recent Projects</h4>
-In the following general description, you will find the most recent projects I have developed and integrated as solutions. 🚀
+<samp>In the following general description, you will find the most recent projects I have developed and integrated as solutions. 🚀</samp>
 
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://www.spacex.com/static/images/share.jpg"/>](https://www.spacex.com/)
 
@@ -83,12 +83,6 @@ Linguagens & Tecnologias: `React Native`, `Node`, `Swift`, `Kotlin`, `OpenShift`
 Projetos em destaque: [App](https://nubank.com.br/)
 <br/>
 <br/>
-
-<button style="background: #007BFF; color: white; padding: 10px 20px; border: none; border-radius: 5px; cursor: pointer;" 
-            onmouseover="this.style.background='#0056b3'" 
-            onmouseout="this.style.background='#007BFF'">
-        More Projects
-    </button>
 
 ```text
 From: 16 July 2020 - To: 15 March 2025
