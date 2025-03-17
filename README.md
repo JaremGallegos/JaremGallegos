@@ -35,8 +35,7 @@
 </a>
 
 <samp>
-👋 Welcome <img align="center" width="12%" src="https://profile-counter.glitch.me/iuricode/count.svg" alt="Número de visitantes no perfil"/> I'm a full-time software developer at <a href="https://github.com/intelliTect">@IntelliTect</a>, <a href="https://wsu.edu/">WSU-Pullman<img src="https://raw.githubusercontent.com/BenjaminMichaelis/BenjaminMichaelis/master/Images/WSULogo.png" width="18px"/></a> alum (Go Cougs!), and part-time adventure seeker/traveler.
-In my free time I love the outdoors, being active, as well as connecting with friends and family.
+👋 Welcome user <img align="center" width="12%" src="https://profile-counter.glitch.me/iuricode/count.svg" alt="Número de visitantes no perfil"/> here. I'm a software and systems developer with a strong focus on reliability, quality, and security. I work within the DevSecOps framework to ensure every solution meets high standards of security and efficiency.
 </samp>
 
 <h6>👨‍💻 A Little More About This Repository</h6>
