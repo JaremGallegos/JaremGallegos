@@ -70,7 +70,7 @@ Project Documentation: 🌐[Web Page](https://www.spacex.com/) | 📄[Technical 
 
 [<img align="left" height="94px" width="94px" alt="Rocketseat" src="https://avatars.githubusercontent.com/u/203592423?s=400&u=bcf9163b93990ee4a8ef35a72e65be87d7432b66&v=4"/>](https://rocketseat.com.br/)
 
-**TimeGO : A Time Program** \
+**TimeGO : Providing Solutions for Local Transportation and Commuters** \
 [**TimeGO**](https://github.com/orgs/TimeGOC/repositories) • 150hrs \
 Languages ​​and Technologies: `React Native`, `Node`, `Swift`, `Kotlin`, `OpenShift` \
 Project Documentation: 🌐[Web Page](https://www.spacex.com/) | 📄[Technical Documentation](https://www.spacex.com/) | 📒[User Manual](<https://pt.wikipedia.org/wiki/Marte_(planeta)>)
