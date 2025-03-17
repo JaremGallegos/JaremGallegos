@@ -54,7 +54,7 @@ This repository serves as a collection of my work, showcasing my contributions a
 
 <div style="margin-bottom: 10px;">
   <h4>📌 Recent Projects</h4>
-  <samp>In the following general description, you will find the most recent projects I have developed and integrated as solutions for various organizations. <a href="https://github.com/JaremGallegos?tab=repositories&q=&type=&language=&sort=name"><img alt="Projects" src="https://img.shields.io/badge/-%F0%9F%9A%80%20More%20Projects-%23FFFFFF?logo=gIThUB&labelColor=000000" width="10%" style="margin-top: 30px"></a></samp>
+  <samp>In the following general description, you will find the most recent projects I have developed and integrated as solutions for various organizations. <a href="https://github.com/JaremGallegos?tab=repositories&q=&type=&language=&sort=name"><img alt="Projects" src="https://img.shields.io/badge/-%F0%9F%9A%80%20More%20Projects-%23FFFFFF?logo=gIThUB&labelColor=000000" width="6%"></a></samp>
 </div>
 <div>
   
