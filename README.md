@@ -62,7 +62,7 @@ This repository serves as a collection of my work, showcasing my contributions a
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://avatars.githubusercontent.com/u/203591910?s=400&u=e1eed463648639e8b59b1f7ceac453067099fcd0&v=4"/>](https://www.spacex.com/)
 
 **Mistral : A Time Program** \
-[**Mistral**](https://www.spacex.com/) • 150hrs \
+[**Mistral**](https://github.com/orgs/MistralOC/repositories) • 150hrs \
 Languages ​​and Technologies: `React Native`, `Node`, `Swift`, `Kotlin`, `OpenShift` \
 Project Documentation: 🌐[Web Page](https://www.spacex.com/) | 📄[Technical Documentation](https://www.spacex.com/) | 📒[User Manual](<https://pt.wikipedia.org/wiki/Marte_(planeta)>)
 <br/>
@@ -71,7 +71,7 @@ Project Documentation: 🌐[Web Page](https://www.spacex.com/) | 📄[Technical 
 [<img align="left" height="94px" width="94px" alt="Rocketseat" src="https://avatars.githubusercontent.com/u/203592423?s=400&u=bcf9163b93990ee4a8ef35a72e65be87d7432b66&v=4"/>](https://rocketseat.com.br/)
 
 **TimeGO : A Time Program** \
-[**TimeGO**](https://www.spacex.com/) • 150hrs \
+[**TimeGO**](https://github.com/orgs/TimeGOC/repositories) • 150hrs \
 Languages ​​and Technologies: `React Native`, `Node`, `Swift`, `Kotlin`, `OpenShift` \
 Project Documentation: 🌐[Web Page](https://www.spacex.com/) | 📄[Technical Documentation](https://www.spacex.com/) | 📒[User Manual](<https://pt.wikipedia.org/wiki/Marte_(planeta)>)
 <br/>
@@ -81,7 +81,7 @@ Project Documentation: 🌐[Web Page](https://www.spacex.com/) | 📄[Technical 
 [<img align="left" height="94px" width="94px" alt="Nubank" src="https://avatars.githubusercontent.com/u/203598484?s=400&u=e585c12a4d77b8799213b86d7bb7fd004f6b3f0a&v=4"/>](https://nubank.com.br/)
 
 **eVend : A Time Program** \
-[**eVend**](https://www.spacex.com/) • 150hrs \
+[**eVend**](https://github.com/orgs/eVendOC/repositories) • 150hrs \
 Languages ​​and Technologies: `React Native`, `Node`, `Swift`, `Kotlin`, `OpenShift` \
 Project Documentation: 🌐[Web Page](https://www.spacex.com/) | 📄[Technical Documentation](https://www.spacex.com/) | 📒[User Manual](<https://pt.wikipedia.org/wiki/Marte_(planeta)>)
 <br/><br/>
