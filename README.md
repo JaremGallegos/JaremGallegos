@@ -54,7 +54,10 @@ This repository serves as a collection of my work, showcasing my contributions a
 
 
 <!-- Mis Proyectos-->
-In the following general description, you will find the most recent projects I have developed and integrated as solutions for various organizations.
+<h4>📌 Recent Projects</h4>
+<samp>
+In the following general description, you will find the most recent projects I have developed and integrated as solutions for various organizations. 🚀
+</samp>
 
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://www.spacex.com/static/images/share.jpg"/>](https://www.spacex.com/)
 
