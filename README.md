@@ -80,7 +80,7 @@ Project Documentation: 🌐[Web Page](https://www.spacex.com/) | 📄[Technical 
 
 [<img align="left" height="94px" width="94px" alt="Nubank" src="https://avatars.githubusercontent.com/u/203598484?s=400&u=e585c12a4d77b8799213b86d7bb7fd004f6b3f0a&v=4"/>](https://nubank.com.br/)
 
-**eVend : A Time Program** \
+**eVend : Providing Business Solutions for E-Commerce and Consumers** \
 [**eVend**](https://github.com/orgs/eVendOC/repositories) • 150hrs \
 Languages ​​and Technologies: `React Native`, `Node`, `Swift`, `Kotlin`, `OpenShift` \
 Project Documentation: 🌐[Web Page](https://www.spacex.com/) | 📄[Technical Documentation](https://www.spacex.com/) | 📒[User Manual](<https://pt.wikipedia.org/wiki/Marte_(planeta)>)
