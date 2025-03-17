@@ -83,7 +83,7 @@ Project Documentation: [Rocket](https://www.spacex.com/), [Marte](<https://pt.wi
 **eVend : A Time Program** \
 [**eVend**](https://www.spacex.com/) • 150hrs \
 Languages ​​and Technologies: `React Native`, `Node`, `Swift`, `Kotlin`, `OpenShift` \
-Project Documentation: [Documentation](https://www.spacex.com/), [User Manual](<https://pt.wikipedia.org/wiki/Marte_(planeta)>)
+Project Documentation: [Web Page](https://www.spacex.com/), [Technical Documentation](https://www.spacex.com/), [User Manual](<https://pt.wikipedia.org/wiki/Marte_(planeta)>)
 <br/><br/>
 
 </div>
