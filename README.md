@@ -89,7 +89,7 @@ Project Documentation: [Rocket](https://www.spacex.com/), [Marte](<https://pt.wi
 </div>
 
 ```text
-From: 16 July 2020 - To: 15 March 2025
+From: 01 January 2023 - To: 17 March 2025
 
 Total Time: 1,944 hrs 37 mins
 
