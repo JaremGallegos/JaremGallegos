@@ -64,7 +64,7 @@ This repository serves as a collection of my work, showcasing my contributions a
 **Mistral : A Time Program** \
 [**Mistral**](https://www.spacex.com/) • 150hrs \
 Languages ​​and Technologies: `React Native`, `Node`, `Swift`, `Kotlin`, `OpenShift` \
-Project Documentation: [Rocket](https://www.spacex.com/), [Marte](<https://pt.wikipedia.org/wiki/Marte_(planeta)>)
+Project Documentation: 🌐[Web Page](https://www.spacex.com/) | 📄[Technical Documentation](https://www.spacex.com/) | 📒[User Manual](<https://pt.wikipedia.org/wiki/Marte_(planeta)>)
 <br/>
 
 
@@ -73,7 +73,7 @@ Project Documentation: [Rocket](https://www.spacex.com/), [Marte](<https://pt.wi
 **TimeGO : A Time Program** \
 [**TimeGO**](https://www.spacex.com/) • 150hrs \
 Languages ​​and Technologies: `React Native`, `Node`, `Swift`, `Kotlin`, `OpenShift` \
-Project Documentation: [Rocket](https://www.spacex.com/), [Marte](<https://pt.wikipedia.org/wiki/Marte_(planeta)>)
+Project Documentation: 🌐[Web Page](https://www.spacex.com/) | 📄[Technical Documentation](https://www.spacex.com/) | 📒[User Manual](<https://pt.wikipedia.org/wiki/Marte_(planeta)>)
 <br/>
 
 
