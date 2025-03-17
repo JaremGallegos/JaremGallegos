@@ -61,7 +61,7 @@ This repository serves as a collection of my work, showcasing my contributions a
 <!-- Mis Proyectos-->
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://avatars.githubusercontent.com/u/203591910?s=400&u=e1eed463648639e8b59b1f7ceac453067099fcd0&v=4"/>](https://www.spacex.com/)
 
-**Mistral : A Time Program** \
+**Mistral : Providing Solutions for Networks and Legacy Systems** \
 [**Mistral**](https://github.com/orgs/MistralOC/repositories) • 150hrs \
 Languages ​​and Technologies: `React Native`, `Node`, `Swift`, `Kotlin`, `OpenShift` \
 Project Documentation: 🌐[Web Page](https://www.spacex.com/) | 📄[Technical Documentation](https://www.spacex.com/) | 📒[User Manual](<https://pt.wikipedia.org/wiki/Marte_(planeta)>)
