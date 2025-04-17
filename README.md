@@ -35,7 +35,7 @@
 </a>
 
 <samp>
-👋 Welcome user <img align="center" width="12%" src="https://visit-counter.vercel.app/counter.png?page=&s=20&c=00ff00&bg=00000000&no=10&ff=digi&tb=&ta=" alt="Número de visitantes"> here. I'm a software and systems developer with a strong focus on reliability, quality, and security. I work within the DevSecOps framework to ensure every solution meets high standards of security and efficiency.
+👋 Welcome user <img align="center" width="10%" src="https://visit-counter.vercel.app/counter.png?page=&s=20&c=ffffff&bg=00000000&no=10&ff=digi&tb=&ta=" alt="Número de visitantes"> here. I'm a software and systems developer with a strong focus on reliability, quality, and security. I work within the DevSecOps framework to ensure every solution meets high standards of security and efficiency.
 </samp>
 
 <h4>📌 About This Repository</h4>
