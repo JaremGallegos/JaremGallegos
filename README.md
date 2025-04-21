@@ -65,7 +65,7 @@ This repository serves as a collection of my work, showcasing my contributions a
 Languages ​​and Technologies: \ 
 `React Native`, `Node`, `Swift`, `Kotlin`, `OpenShift` \
 Project Documentation: 🌐[Web Page](https://www.spacex.com/) | 📄[Technical Documentation](https://www.spacex.com/) | 📒[User Manual](<https://pt.wikipedia.org/wiki/Marte_(planeta)>)
-<br/>
+<br/><br/>
 
 
 [<img align="left" height="94px" width="94px" alt="TimeGO" src="https://avatars.githubusercontent.com/u/203592423?s=400&u=bcf9163b93990ee4a8ef35a72e65be87d7432b66&v=4"/>](https://github.com/Time-C-O-O)
@@ -74,7 +74,7 @@ Project Documentation: 🌐[Web Page](https://www.spacex.com/) | 📄[Technical 
 Languages ​​and Technologies: \ 
 `React Native`, `Node`, `Swift`, `Kotlin`, `OpenShift` \
 Project Documentation: 🌐[Web Page](https://www.spacex.com/) | 📄[Technical Documentation](https://www.spacex.com/) | 📒[User Manual](<https://pt.wikipedia.org/wiki/Marte_(planeta)>)
-<br/>
+<br/><br/>
 
 
 [<img align="left" height="94px" width="94px" alt="eVend" src="https://avatars.githubusercontent.com/u/203598484?s=400&u=e585c12a4d77b8799213b86d7bb7fd004f6b3f0a&v=4"/>](https://github.com/eVend-C-O-O)
@@ -83,7 +83,7 @@ Project Documentation: 🌐[Web Page](https://www.spacex.com/) | 📄[Technical 
 Languages ​​and Technologies: \ 
 `React Native`, `Node`, `Swift`, `Kotlin`, `OpenShift` \
 Project Documentation: 🌐[Web Page](https://www.spacex.com/) | 📄[Technical Documentation](https://www.spacex.com/) | 📒[User Manual](<https://pt.wikipedia.org/wiki/Marte_(planeta)>)
-<br/>
+<br/><br/>
 
 
 [<img align="left" height="94px" width="94px" alt="Sigga" src="https://avatars.githubusercontent.com/u/205107118?s=400&u=89420d3457f33c6ad1e2e2292ff32f8021596101&v=4"/>](https://github.com/Sigga-C-O-O)
@@ -92,7 +92,7 @@ Project Documentation: 🌐[Web Page](https://www.spacex.com/) | 📄[Technical 
 Languages ​​and Technologies: \
 `React Native`, `Node`, `Swift`, `Kotlin`, `OpenShift` \
 Project Documentation: 🌐[Web Page](https://www.spacex.com/) | 📄[Technical Documentation](https://www.spacex.com/) | 📒[User Manual](<https://pt.wikipedia.org/wiki/Marte_(planeta)>)
-<br/>
+<br/><br/>
 
 
 [<img align="left" height="94px" width="94px" alt="Alternatica" src="https://avatars.githubusercontent.com/u/205791391?s=400&u=5277444439b3c6495127946475e59aab7f87a382&v=4"/>](https://github.com/Alternatica-C-O-O)
