@@ -77,9 +77,9 @@ This repository serves as a collection of my work, showcasing my contributions a
  <br/>
  
  
- [<img align="left" height="94px" width="94px" alt="Sigga" src="https://avatars.githubusercontent.com/u/205107118?s=400&u=89420d3457f33c6ad1e2e2292ff32f8021596101&v=4"/>](https://nubank.com.br/)
+ [<img align="left" height="94px" width="94px" alt="Sigga" src="https://avatars.githubusercontent.com/u/208397627?s=400&u=868aed229c77fd715812f3f636937b4336748439&v=4"/>](https://nubank.com.br/)
  
- **Sigga : Providing Business Solutions for E-Commerce and Consumers** \
+ **Wallu : Providing Business Solutions for E-Commerce and Consumers** \
  [**Sigga**](https://github.com/orgs/SiggaOC/repositories) • 150hrs \
  Languages ​​and Technologies: `React Native`, `Node`, `Swift`, `Kotlin`, `OpenShift` \
  Project Documentation: 🌐[Web Page](https://www.spacex.com/) | 📄[Technical Documentation](https://www.spacex.com/) | 📒[User Manual](<https://pt.wikipedia.org/wiki/Marte_(planeta)>)
