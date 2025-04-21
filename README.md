@@ -66,6 +66,7 @@ This repository serves as a collection of my work, showcasing my contributions a
 [<img align="left" height="94px" width="94px" alt="Alternatica" src="https://avatars.githubusercontent.com/u/205791391?s=400&u=5277444439b3c6495127946475e59aab7f87a382&v=4"/>](https://github.com/Alternatica-C-O-O)
 
 </div>
+<br/><br/>
 
 ```text
 From: 01 January 2023 - To: 17 March 2025
