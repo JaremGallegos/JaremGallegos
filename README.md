@@ -66,16 +66,7 @@ This repository serves as a collection of my work, showcasing my contributions a
  Languages ​​and Technologies: `React Native`, `Node`, `Swift`, `Kotlin`, `OpenShift` \
  Project Documentation: 🌐[Web Page](https://www.spacex.com/) | 📄[Technical Documentation](https://www.spacex.com/) | 📒[User Manual](<https://pt.wikipedia.org/wiki/Marte_(planeta)>)
  <br/>
- 
- 
- [<img align="left" height="94px" width="94px" alt="TimeGO" src="https://avatars.githubusercontent.com/u/203592423?s=400&u=bcf9163b93990ee4a8ef35a72e65be87d7432b66&v=4"/>](https://rocketseat.com.br/)
- 
- **TimeGO : Providing Solutions for Local Transportation and Commuters** \
- [**TimeGO**](https://github.com/orgs/TimeGOC/repositories) • 150hrs \
- Languages ​​and Technologies: `React Native`, `Node`, `Swift`, `Kotlin`, `OpenShift` \
- Project Documentation: 🌐[Web Page](https://www.spacex.com/) | 📄[Technical Documentation](https://www.spacex.com/) | 📒[User Manual](<https://pt.wikipedia.org/wiki/Marte_(planeta)>)
- <br/>
- 
+
  
  [<img align="left" height="94px" width="94px" alt="eVend" src="https://avatars.githubusercontent.com/u/203598484?s=400&u=e585c12a4d77b8799213b86d7bb7fd004f6b3f0a&v=4"/>](https://nubank.com.br/)
  
