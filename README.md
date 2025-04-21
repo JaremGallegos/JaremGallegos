@@ -59,16 +59,50 @@ This repository serves as a collection of my work, showcasing my contributions a
 <div>
   
 <!-- Mis Proyectos-->
-[<img align="left" height="94px" width="94px" alt="Mistral" src="https://avatars.githubusercontent.com/u/203591910?s=400&u=e1eed463648639e8b59b1f7ceac453067099fcd0&v=4"/>](https://github.com/Mistral-C-O-O)
-[<img align="left" height="94px" width="94px" alt="TimeGO" src="https://avatars.githubusercontent.com/u/203592423?s=400&u=bcf9163b93990ee4a8ef35a72e65be87d7432b66&v=4"/>](https://github.com/Time-C-O-O)
-[<img align="left" height="94px" width="94px" alt="eVend" src="https://avatars.githubusercontent.com/u/203598484?s=400&u=e585c12a4d77b8799213b86d7bb7fd004f6b3f0a&v=4"/>](https://github.com/eVend-C-O-O)
-[<img align="left" height="94px" width="94px" alt="Sigga" src="https://avatars.githubusercontent.com/u/205107118?s=400&u=89420d3457f33c6ad1e2e2292ff32f8021596101&v=4"/>](https://github.com/Sigga-C-O-O)
-[<img align="left" height="94px" width="94px" alt="Alternatica" src="https://avatars.githubusercontent.com/u/205791391?s=400&u=5277444439b3c6495127946475e59aab7f87a382&v=4"/>](https://github.com/Alternatica-C-O-O)
-[<img align="left" height="94px" width="94px" alt="Mistral" src="https://avatars.githubusercontent.com/u/203591910?s=400&u=e1eed463648639e8b59b1f7ceac453067099fcd0&v=4"/>](https://github.com/Mistral-C-O-O)
-[<img align="left" height="94px" width="94px" alt="TimeGO" src="https://avatars.githubusercontent.com/u/203592423?s=400&u=bcf9163b93990ee4a8ef35a72e65be87d7432b66&v=4"/>](https://github.com/Time-C-O-O)
-[<img align="left" height="94px" width="94px" alt="eVend" src="https://avatars.githubusercontent.com/u/203598484?s=400&u=e585c12a4d77b8799213b86d7bb7fd004f6b3f0a&v=4"/>](https://github.com/eVend-C-O-O)
-[<img align="left" height="94px" width="94px" alt="Sigga" src="https://avatars.githubusercontent.com/u/205107118?s=400&u=89420d3457f33c6ad1e2e2292ff32f8021596101&v=4"/>](https://github.com/Sigga-C-O-O)
-[<img align="left" height="94px" width="94px" alt="Alternatica" src="https://avatars.githubusercontent.com/u/205791391?s=400&u=5277444439b3c6495127946475e59aab7f87a382&v=4"/>](https://github.com/Alternatica-C-O-O)
+ [<img align="left" height="94px" width="94px" alt="Mistral" src="https://avatars.githubusercontent.com/u/203591910?s=400&u=e1eed463648639e8b59b1f7ceac453067099fcd0&v=4"/>](https://www.spacex.com/)
+ 
+ **Mistral : Providing Solutions for Networks and Legacy Systems** \
+ [**Mistral**](https://github.com/orgs/MistralOC/repositories) • 150hrs \
+ Languages ​​and Technologies: `React Native`, `Node`, `Swift`, `Kotlin`, `OpenShift` \
+ Project Documentation: 🌐[Web Page](https://www.spacex.com/) | 📄[Technical Documentation](https://www.spacex.com/) | 📒[User Manual](<https://pt.wikipedia.org/wiki/Marte_(planeta)>)
+ <br/>
+ 
+ 
+ [<img align="left" height="94px" width="94px" alt="TimeGO" src="https://avatars.githubusercontent.com/u/203592423?s=400&u=bcf9163b93990ee4a8ef35a72e65be87d7432b66&v=4"/>](https://rocketseat.com.br/)
+ 
+ **TimeGO : Providing Solutions for Local Transportation and Commuters** \
+ [**TimeGO**](https://github.com/orgs/TimeGOC/repositories) • 150hrs \
+ Languages ​​and Technologies: `React Native`, `Node`, `Swift`, `Kotlin`, `OpenShift` \
+ Project Documentation: 🌐[Web Page](https://www.spacex.com/) | 📄[Technical Documentation](https://www.spacex.com/) | 📒[User Manual](<https://pt.wikipedia.org/wiki/Marte_(planeta)>)
+ <br/>
+ 
+ 
+ [<img align="left" height="94px" width="94px" alt="eVend" src="https://avatars.githubusercontent.com/u/203598484?s=400&u=e585c12a4d77b8799213b86d7bb7fd004f6b3f0a&v=4"/>](https://nubank.com.br/)
+ 
+ **eVend : Providing Business Solutions for E-Commerce and Consumers** \
+ [**eVend**](https://github.com/orgs/eVendOC/repositories) • 150hrs \
+ Languages ​​and Technologies: `React Native`, `Node`, `Swift`, `Kotlin`, `OpenShift` \
+ Project Documentation: 🌐[Web Page](https://www.spacex.com/) | 📄[Technical Documentation](https://www.spacex.com/) | 📒[User Manual](<https://pt.wikipedia.org/wiki/Marte_(planeta)>)
+ <br/>
+ 
+ 
+ [<img align="left" height="94px" width="94px" alt="Sigga" src="https://avatars.githubusercontent.com/u/205107118?s=400&u=89420d3457f33c6ad1e2e2292ff32f8021596101&v=4"/>](https://nubank.com.br/)
+ 
+ **Sigga : Providing Business Solutions for E-Commerce and Consumers** \
+ [**Sigga**](https://github.com/orgs/SiggaOC/repositories) • 150hrs \
+ Languages ​​and Technologies: `React Native`, `Node`, `Swift`, `Kotlin`, `OpenShift` \
+ Project Documentation: 🌐[Web Page](https://www.spacex.com/) | 📄[Technical Documentation](https://www.spacex.com/) | 📒[User Manual](<https://pt.wikipedia.org/wiki/Marte_(planeta)>)
+ <br/>
+ 
+ 
+ [<img align="left" height="94px" width="94px" alt="Alternatica" src="https://avatars.githubusercontent.com/u/205791391?s=400&u=5277444439b3c6495127946475e59aab7f87a382&v=4"/>](https://nubank.com.br/)
+ 
+ **Alternatica : Providing Business Solutions for E-Commerce and Consumers** \
+ [**Alternatica**](https://github.com/orgs/Alternatica/repositories) • 150hrs \
+ Languages ​​and Technologies: `React Native`, `Node`, `Swift`, `Kotlin`, `OpenShift` \
+ Project Documentation: 🌐[Web Page](https://www.spacex.com/) | 📄[Technical Documentation](https://www.spacex.com/) | 📒[User Manual](<https://pt.wikipedia.org/wiki/Marte_(planeta)>)
+ <br/><br/>
+
 </div>
 
 
