@@ -59,7 +59,7 @@ This repository serves as a collection of my work, showcasing my contributions a
 <div>
   
 <!-- Mis Proyectos-->
- [<img align="left" height="94px" width="94px" alt="Mistral" src="https://avatars.githubusercontent.com/u/203591910?s=400&u=e1eed463648639e8b59b1f7ceac453067099fcd0&v=4"/>](https://www.spacex.com/)
+ [<img align="left" height="94px" width="94px" alt="Mistral" src="https://avatars.githubusercontent.com/u/208396968?s=400&u=8f4228abb378d58317019f3abf663e98f12a7bab&v=4"/>](https://www.spacex.com/)
  
  **Mistral : Providing Solutions for Networks and Legacy Systems** \
  [**Mistral**](https://github.com/orgs/MistralOC/repositories) • 150hrs \
