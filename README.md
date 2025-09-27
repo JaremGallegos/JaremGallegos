@@ -35,7 +35,7 @@
 </a>
 
 <samp>
-👋 Welcome user <img align="center" width="10%" src="https://gh-hits.nomadcoders.workers.dev/view?username=JaremGallegos" alt="Número de visitantes"> here. I'm a software and systems developer with a strong focus on reliability, quality, and security. I work within the DevSecOps framework to ensure every solution meets high standards of security and efficiency.
+👋 Welcome user <img align="center" width="10%" src="https://views-counter.vercel.app/badge?pageId=JaremGallegos" alt="Número de visitantes"> here. I'm a software and systems developer with a strong focus on reliability, quality, and security. I work within the DevSecOps framework to ensure every solution meets high standards of security and efficiency.
 </samp>
 
 <h4>📌 About This Repository</h4>
