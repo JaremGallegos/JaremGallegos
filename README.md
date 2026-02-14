@@ -60,12 +60,12 @@ This repository serves as a collection of my work, showcasing my contributions a
 <div>
   
 <!-- Mis Proyectos-->
- [<img align="left" height="94px" width="94px" alt="Mistral" src="https://avatars.githubusercontent.com/u/208396968?s=400&u=8f4228abb378d58317019f3abf663e98f12a7bab&v=4"/>](https://www.spacex.com/)
+ [<img align="left" height="94px" width="94px" alt="Axom" src="https://avatars.githubusercontent.com/u/208396968?s=400&u=8f4228abb378d58317019f3abf663e98f12a7bab&v=4"/>](https://github.com/orgs/TheAxomCom/repositories)
  
- **Mistral : Providing Solutions for Networks and Legacy Systems** \
- [**Mistral**](https://github.com/orgs/MistralOC/repositories) • 150hrs \
+ **Axom : Providing Solutions for Networks and Legacy Systems** \
+ [**Mistral**](https://github.com/orgs/TheAxomCom/repositories) • 150hrs \
  Languages ​​and Technologies: `React Native`, `Node`, `Swift`, `Kotlin`, `OpenShift` \
- Project Documentation: 🌐[Web Page](https://www.spacex.com/) | 📄[Technical Documentation](https://www.spacex.com/) | 📒[User Manual](<https://pt.wikipedia.org/wiki/Marte_(planeta)>)
+ Project Documentation: 🌐[Web Page](https://github.com/orgs/TheAxomCom/repositories) | 📄[Technical Documentation](https://www.spacex.com/) | 📒[User Manual](<https://pt.wikipedia.org/wiki/Marte_(planeta)>)
  <br/>
 
  
