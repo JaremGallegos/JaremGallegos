@@ -63,9 +63,9 @@ This repository serves as a collection of my work, showcasing my contributions a
  [<img align="left" height="94px" width="94px" alt="Axom" src="https://avatars.githubusercontent.com/u/208396968?s=400&u=8f4228abb378d58317019f3abf663e98f12a7bab&v=4"/>](https://github.com/orgs/TheAxomCom/repositories)
  
  **Axom : Providing Solutions for Networks and Legacy Systems** \
- [**Mistral**](https://github.com/orgs/TheAxomCom/repositories) • 150hrs \
- Languages ​​and Technologies: `React Native`, `Node`, `Swift`, `Kotlin`, `OpenShift` \
- Project Documentation: 🌐[Web Page](https://github.com/orgs/TheAxomCom/repositories) | 📄[Technical Documentation](https://www.spacex.com/) | 📒[User Manual](<https://pt.wikipedia.org/wiki/Marte_(planeta)>)
+ [**Axom**](https://github.com/orgs/TheAxomCom/repositories) • 150hrs \
+ Technologies: `React Native`, `Node`, `Swift`, `Kotlin`, `OpenShift` \
+ Documentation: 🌐[Web Page](https://github.com/orgs/TheAxomCom/repositories) | 📄[Technical Documentation](https://www.spacex.com/) | 📒[User Manual](<https://pt.wikipedia.org/wiki/Marte_(planeta)>)
  <br/>
 
  
@@ -73,8 +73,8 @@ This repository serves as a collection of my work, showcasing my contributions a
  
  **eVend : Providing Business Solutions for E-Commerce and Consumers** \
  [**eVend**](https://github.com/Wallu-C-O-O/repositories) • 150hrs \
- Languages ​​and Technologies: `React Native`, `Node`, `Swift`, `Kotlin`, `OpenShift` \
- Project Documentation: 🌐[Web Page](https://www.spacex.com/) | 📄[Technical Documentation](https://www.spacex.com/) | 📒[User Manual](<https://pt.wikipedia.org/wiki/Marte_(planeta)>)
+ Technologies: `React Native`, `Node`, `Swift`, `Kotlin`, `OpenShift` \
+ Documentation: 🌐[Web Page](https://www.spacex.com/) | 📄[Technical Documentation](https://www.spacex.com/) | 📒[User Manual](<https://pt.wikipedia.org/wiki/Marte_(planeta)>)
  <br/>
  
  
@@ -82,8 +82,8 @@ This repository serves as a collection of my work, showcasing my contributions a
  
  **Wallu : Providing Business Solutions for E-Commerce and Consumers** \
  [**Sigga**](https://github.com/orgs/SiggaOC/repositories) • 150hrs \
- Languages ​​and Technologies: `React Native`, `Node`, `Swift`, `Kotlin`, `OpenShift` \
- Project Documentation: 🌐[Web Page](https://www.spacex.com/) | 📄[Technical Documentation](https://www.spacex.com/) | 📒[User Manual](<https://pt.wikipedia.org/wiki/Marte_(planeta)>)
+ Technologies: `React Native`, `Node`, `Swift`, `Kotlin`, `OpenShift` \
+ Documentation: 🌐[Web Page](https://www.spacex.com/) | 📄[Technical Documentation](https://www.spacex.com/) | 📒[User Manual](<https://pt.wikipedia.org/wiki/Marte_(planeta)>)
  <br/>
  
  
@@ -91,8 +91,8 @@ This repository serves as a collection of my work, showcasing my contributions a
  
  **Alternatica : Providing Business Solutions for E-Commerce and Consumers** \
  [**Alternatica**](https://github.com/orgs/Alternatica/repositories) • 150hrs \
- Languages ​​and Technologies: `React Native`, `Node`, `Swift`, `Kotlin`, `OpenShift` \
- Project Documentation: 🌐[Web Page](https://www.spacex.com/) | 📄[Technical Documentation](https://www.spacex.com/) | 📒[User Manual](<https://pt.wikipedia.org/wiki/Marte_(planeta)>)
+ Technologies: `React Native`, `Node`, `Swift`, `Kotlin`, `OpenShift` \
+ Documentation: 🌐[Web Page](https://www.spacex.com/) | 📄[Technical Documentation](https://www.spacex.com/) | 📒[User Manual](<https://pt.wikipedia.org/wiki/Marte_(planeta)>)
  <br/><br/>
 
 </div>
