@@ -68,7 +68,7 @@ This repository serves as a collection of my work, showcasing my contributions a
  <br/>
 
  
- [<img align="left" height="94px" width="94px" alt="eVend" src="https://avatars.githubusercontent.com/u/203598484?s=400&u=e585c12a4d77b8799213b86d7bb7fd004f6b3f0a&v=4"/>](https://nubank.com.br/)
+ [<img align="left" height="94px" width="94px" alt="eVend" src="https://avatars.githubusercontent.com/u/208397627?s=400&u=0a06eba7c3a26af7edea7800cd782920fc7e2a6e&v=4"/>](https://nubank.com.br/)
  
  **eVend : Providing Business Solutions for E-Commerce and Consumers** \
  [**eVend**](https://github.com/Wallu-C-O-O/repositories) • 150hrs \
