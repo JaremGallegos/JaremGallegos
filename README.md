@@ -86,7 +86,7 @@ This repository serves as a collection of my work, showcasing my contributions a
  <br/>
  
  
- [<img align="left" height="94px" width="94px" alt="Alternatica" src="https://avatars.githubusercontent.com/u/205791391?s=400&u=5277444439b3c6495127946475e59aab7f87a382&v=4"/>](https://nubank.com.br/)
+ [<img align="left" height="94px" width="94px" alt="Alternatica" src="https://avatars.githubusercontent.com/u/208399336?s=400&u=9bde7809cb3349f7efc4d4415b106e0fa0224ffa&v=4"/>](https://nubank.com.br/)
  
  **Alternatica : Providing Business Solutions for E-Commerce and Consumers** \
  [**Alternatica**](https://github.com/orgs/Alternatica/repositories) • 150hrs \
