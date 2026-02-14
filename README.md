@@ -23,7 +23,7 @@
     <a href="https://codeforces.com/profile/JaBroenMan/"><img alt="Codeforces" src="https://img.shields.io/badge/-CODEFORCES-%23000000?style=for-the-badge&logo=Codeforces&logoColor=%23ffffff&link=https%3A%2F%2Fcodeforces.com%2Fprofile%2FJaBroenMan"></a>
     <a href="https://www.codewars.com/users/JaremGallegos/stats/"><img alt="Codewars" src="https://img.shields.io/badge/-CODEWARS-%23000000?style=for-the-badge&logo=Codewars&logoColor=%23ffffff&link=https%3A%2F%2Fcodeforces.com%2Fprofile%2FJaBroenMan"></a>
     <a href="https://platform.stratascratch.com/user/JaremGallegos/"><img alt="Stratascratch" src="https://img.shields.io/badge/-STRATASCRATCH-%23000000?style=for-the-badge&logo=NextBillion.ai&logoColor=%23ffffff&link=https%3A%2F%2Fplatform.stratascratch.com%2Fuser%2FJarem"></a>
-    <a href="https://app.hackthebox.com/users/2315314/"><img alt="Hack The Box" src="https://img.shields.io/badge/-HACK%20THE%20BOX-%23000000?style=for-the-badge&logo=hackthebox&logoColor=FFFFFF"></a>
+    <a href="https://profile.hackthebox.com/profile/019c5db1-b277-711b-b1fe-7d9451a41f08"><img alt="Hack The Box" src="https://img.shields.io/badge/-HACK%20THE%20BOX-%23000000?style=for-the-badge&logo=hackthebox&logoColor=FFFFFF"></a>
   </p>
 </div>
 
