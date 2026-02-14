@@ -45,6 +45,9 @@ This repository serves as a collection of my work, showcasing my contributions a
 ✅ Infrastructure as Code (IaC) examples using Terraform for cloud automation.<br>
 ✅ Python scripts and automation solutions for Cisco DevNet.<br>
 ✅ Business applications and backend services built with .NET and Java.<br>
+✅ Infrastructure as Code (IaC) examples using Terraform for cloud automation.<br>
+✅ Python scripts and automation solutions for Cisco DevNet.<br>
+✅ Business applications and backend services built with .NET and Java.<br>
 </samp><br>
 
 <!-- Message center -->
