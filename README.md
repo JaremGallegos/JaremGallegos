@@ -35,7 +35,7 @@
 </a>
 
 <samp>
-👋 Welcome user <img align="center" width="9%" src="https://views-counter.vercel.app/badge?pageId=JaremGallegos" alt="Número de visitantes"> here. I'm a software and systems developer with a strong focus on reliability, quality, and security. I work within the DevSecOps framework to ensure every solution meets high standards of security and efficiency.
+👋 Welcome <img align="center" width="9%" src="https://views-counter.vercel.app/badge?pageId=JaremGallegos" alt="Número de visitantes"> to this repository!. I'm a <b>Site Reliability Engineer (SRE)</b>. What is that? Well, think of me as the person responsible for the core infrastructure, building automated systems to ensure scalability and fault tolerance, and reacting quickly if things break.
 </samp>
 
 <h4>📌 About This Repository</h4>
