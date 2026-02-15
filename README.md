@@ -65,7 +65,7 @@ This repository serves as a collection of my work, showcasing my contributions a
  **AXOM : Providing Solutions for Networks and Legacy Systems** \
  Topics: [**Axom**](https://github.com/orgs/TheAxomCom/repositories) • [**Alternatica**](https://github.com/orgs/Alternatica/repositories) \
  Technologies: `Node`, `Node`, `Swift`, `Kotlin`, `OpenShift` \
- Documentation: 🌐[Web Page](https://github.com/orgs/TheAxomCom/repositories) | 📄[Technical Documentation](https://www.spacex.com/) | 📒[User Manual](<https://pt.wikipedia.org/wiki/Marte_(planeta)>)
+ Documentation: 🌐[Web Page](https://github.com/orgs/TheAxomCom/repositories) | 📄[Technical](https://www.spacex.com/) | 📒[User Manual](<https://pt.wikipedia.org/wiki/Marte_(planeta)>)
  <br/>
 
  
@@ -74,7 +74,7 @@ This repository serves as a collection of my work, showcasing my contributions a
  **BASE : Providing Business Solutions for E-Commerce and Consumers** \
  Topics: [**eVend**](https://github.com/Wallu-C-O-O/repositories) • [**Alternatica**](https://github.com/orgs/Alternatica/repositories) \
  Technologies: `React Native`, `Node`, `Swift`, `Kotlin`, `OpenShift` \
- Documentation: 🌐[Web Page](https://www.spacex.com/) | 📄[Technical Documentation](https://www.spacex.com/) | 📒[User Manual](<https://pt.wikipedia.org/wiki/Marte_(planeta)>)
+ Documentation: 🌐[Web Page](https://www.spacex.com/) | 📄[Technical](https://www.spacex.com/) | 📒[User Manual](<https://pt.wikipedia.org/wiki/Marte_(planeta)>)
  <br/>
  
  
@@ -83,7 +83,7 @@ This repository serves as a collection of my work, showcasing my contributions a
  **LEDG : Providing Business Solutions for E-Commerce and Consumers** \
  Topics: [**Sigga**](https://github.com/orgs/SiggaOC/repositories) • [**Alternatica**](https://github.com/orgs/Alternatica/repositories) \
  Technologies: `React Native`, `Node`, `Swift`, `Kotlin`, `OpenShift` \
- Documentation: 🌐[Web Page](https://www.spacex.com/) | 📄[Technical Documentation](https://www.spacex.com/) | 📒[User Manual](<https://pt.wikipedia.org/wiki/Marte_(planeta)>)
+ Documentation: 🌐[Web Page](https://www.spacex.com/) | 📄[Technical](https://www.spacex.com/) | 📒[User Manual](<https://pt.wikipedia.org/wiki/Marte_(planeta)>)
  <br/>
  
  
@@ -92,7 +92,7 @@ This repository serves as a collection of my work, showcasing my contributions a
  **EDGE : Providing Business Solutions for E-Commerce and Consumers** \
  Topics: [**Alternatica**](https://github.com/orgs/Alternatica/repositories) • [**Alternatica**](https://github.com/orgs/Alternatica/repositories) \
  Technologies: `React Native`, `Node`, `Swift`, `Kotlin`, `OpenShift` \
- Documentation: 🌐[Web Page](https://www.spacex.com/) | 📄[Technical Documentation](https://www.spacex.com/) | 📒[User Manual](<https://pt.wikipedia.org/wiki/Marte_(planeta)>)
+ Documentation: 🌐[Web Page](https://www.spacex.com/) | 📄[Technical](https://www.spacex.com/) | 📒[User Manual](<https://pt.wikipedia.org/wiki/Marte_(planeta)>)
  <br/><br/>
 
 </div>
