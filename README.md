@@ -64,7 +64,7 @@ This repository serves as a collection of my work, showcasing my contributions a
  
  **AXOM : Providing Solutions for Networks and Legacy Systems** \
  Topics: [**Axom**](https://github.com/orgs/TheAxomCom/repositories) • 150hrs \
- Technologies: <a href="https://help.figma.com/hc/en-us"><img alt="Figma" src="https://img.shields.io/badge/-Figma-%23414549?style=flat-square&logo=figma&logoColor=%23ffffff"></a>, `Node`, `Swift`, `Kotlin`, `OpenShift` \
+ Technologies: <img alt="Figma" src="https://img.shields.io/badge/-Figma-%23414549?style=flat-square&logo=figma&logoColor=%23ffffff">, `Node`, `Swift`, `Kotlin`, `OpenShift` \
  Documentation: 🌐[Web Page](https://github.com/orgs/TheAxomCom/repositories) | 📄[Technical Documentation](https://www.spacex.com/) | 📒[User Manual](<https://pt.wikipedia.org/wiki/Marte_(planeta)>)
  <br/>
 
