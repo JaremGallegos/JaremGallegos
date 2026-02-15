@@ -78,7 +78,7 @@ This repository serves as a collection of my work, showcasing my contributions a
  <br/>
  
  
- [<img align="left" height="94px" width="94px" alt="Sigga" src="https://avatars.githubusercontent.com/u/208399073?s=400&u=53c4f9bc6aeb25c931a0e710472fc4028aa0b34c&v=4"/>](https://nubank.com.br/)
+ [<img align="left" height="94px" width="94px" alt="Sigga" src="https://avatars.githubusercontent.com/u/205107118?s=400&u=47452661fe67cc2d2010fcc714eb016f5581b072&v=4"/>](https://nubank.com.br/)
  
  **Wallu : Providing Business Solutions for E-Commerce and Consumers** \
  [**Sigga**](https://github.com/orgs/SiggaOC/repositories) • 150hrs \
