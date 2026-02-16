@@ -44,7 +44,7 @@ My passion is analyzing computing metrics for early issue detection. This reposi
 1️⃣ Infrastructure automation, system design, and cloud vendor integration.<br>
 2️⃣ Enterprise projects using full-stack technologies focused on innovation.<br>
 3️⃣ Middleware and operations management projects leveraging new technologies.<br>
-4️⃣ Python scripts and automation solutions for Cisco automation. Cisco cloud<br>
+4️⃣ Data projects focused on automated environments and solution building.<br>
 5️⃣ Python scripts and automation solutions for Cisco automation. Cisco cloud<br>
 </samp><br>
 
