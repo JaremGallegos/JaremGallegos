@@ -45,7 +45,7 @@ My passion is analyzing computing metrics for early issue detection. This reposi
 2️⃣ Infrastructure as Code (IaC) examples using Terraform for cloud automation.<br>
 3️⃣ Python scripts and automation solutions for Cisco automation. Cisco cloud<br>
 4️⃣ Python scripts and automation solutions for Cisco automation. Cisco cloud<br>
-5️⃣ Python scripts and automation solutions for Cisco automation. Cisco cloud DevNet.<br>
+5️⃣ Python scripts and automation solutions for Cisco automation. Cisco cloud<br>
 </samp><br>
 
 <!-- Message center -->
