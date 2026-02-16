@@ -43,9 +43,9 @@
 My passion is analyzing computing metrics for early issue detection. This repository contains my notes and analysis methods, focused on:<br><br>
 1️⃣ <b>Infrastructure</b>: Automation, system design, and cloud vendor integration.<br>
 2️⃣ <b>Data</b>: Automated environments and systems engineering.<br>
-3️⃣ <b>Enterprise</b>: Full-stack solutions driven by innovation and reliability.<br>
+3️⃣ <b>Enterprise</b>: Developing full-stack business applications focused on process reliability.<br>
 4️⃣ <b>Middleware</b>: Bridging IT/OT operations through networking and PLC integration.<br>
-5️⃣ <b>Legacy Systems</b>: Modernization through innovation and technology integration.<br>
+5️⃣ <b>Legacy</b>: Applying SRE principles and modernization to Mainframe ecosystems.<br>
 </samp><br>
 
 <!-- Message center -->
