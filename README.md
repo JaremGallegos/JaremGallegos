@@ -40,12 +40,12 @@
 
 <h4>📌 About This Repository</h4>
 <samp>
-My passion is analyzing computing metrics for early issue detection. This repository contains my notes and analysis methods:<br><br>
-1️⃣ Infrastructure automation, system design, and cloud vendor integration.<br>
-2️⃣ Enterprise projects using full-stack technologies focused on innovation.<br>
-3️⃣ Middleware and operations management projects leveraging new technologies.<br>
-4️⃣ Data projects focused on automated environments and solution building.<br>
-5️⃣ Legacy projects focused on innovation and integration with new technologies.<br>
+My passion is analyzing computing metrics for early issue detection. This repository contains my notes and analysis methods, focused on:<br><br>
+1️⃣ <b>Infrastructure</b>: Automation, system design, and cloud vendor integration.<br>
+2️⃣ <b>Data</b>: Automated environments and systems engineering.<br>
+3️⃣ <b>Enterprise</b>: Full-stack solutions driven by innovation and reliability.<br>
+4️⃣ <b>Middleware</b>: Operations management leveraging emerging technologies.<br>
+5️⃣ <b>Legacy Systems</b>: Modernization through innovation and technology integration.<br>
 </samp><br>
 
 <!-- Message center -->
