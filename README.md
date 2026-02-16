@@ -44,7 +44,7 @@ My passion is analyzing computing metrics for early issue detection. This reposi
 1️⃣ <b>Infrastructure</b>: Automation, system design, and cloud vendor integration.<br>
 2️⃣ <b>Data</b>: Automated environments and systems engineering.<br>
 3️⃣ <b>Enterprise</b>: Full-stack solutions driven by innovation and reliability.<br>
-4️⃣ <b>Middleware</b>: Operations management leveraging emerging technologies.<br>
+4️⃣ <b>Middleware</b>: Bridging IT/OT operations through networking and PLC integration.<br>
 5️⃣ <b>Legacy Systems</b>: Modernization through innovation and technology integration.<br>
 </samp><br>
 
