@@ -44,7 +44,7 @@ My passion is analyzing computing metrics for early issue detection. This reposi
 1️⃣ <b>Infrastructure</b>: Automation, system design, and cloud vendor integration.<br>
 2️⃣ <b>Data</b>: Predictive modeling and data analytics for SRE-driven reliability.<br>
 3️⃣ <b>Enterprise</b>: Business solutions designed to optimize and scale operations.<br>
-4️⃣ <b>Middleware</b>: Bridging IT/OT operations through networking and Purdue ecosystem<br>
+4️⃣ <b>Middleware</b>: Bridging IT/OT operations through networking and Purdue ecosystem.<br>
 5️⃣ <b>Legacy</b>: Applying SRE principles and modernization to Mainframe ecosystems.<br>
 </samp><br>
 
