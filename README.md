@@ -41,7 +41,7 @@
 <h4>📌 About This Repository</h4>
 <samp>
 My passion is analyzing computing metrics for early issue detection. This repository contains my notes and analysis methods:<br><br>
-1️⃣ Code samples and tools for COBOL, CICS, DB2, and mainframe-related projects.<br>
+1️⃣ Projects focused on infrastructure automation, system design, and cloud vendor integration.<br>
 2️⃣ Infrastructure as Code (IaC) examples using Terraform for cloud automation.<br>
 3️⃣ Python scripts and automation solutions for Cisco automation. Cisco cloud<br>
 4️⃣ Python scripts and automation solutions for Cisco automation. Cisco cloud<br>
