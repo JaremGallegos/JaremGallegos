@@ -38,7 +38,7 @@
 👋 Welcome <img align="center" width="9%" src="https://views-counter.vercel.app/badge?pageId=JaremGallegos" alt="Número de visitantes"> to this repository!. I'm a <b>Site Reliability Engineer</b>. What is that? Well, think of me as the person responsible for the core infrastructure, building automated systems to ensure scalability and fault tolerance, and reacting quickly if things break 😬.
 </samp>
 
-<h4>📌 About This Repository</h4>
+<h4>🗂️ About This Repository</h4>
 <samp>
 My passion is analyzing computing metrics for early issue detection. This repository contains my notes and analysis methods, focused on:<br><br>
 1️⃣ <b>Infrastructure</b>: Automation, system design, and cloud vendor integration.<br>
