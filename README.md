@@ -55,7 +55,7 @@ My passion is analyzing computing metrics for early issue detection. This reposi
 
 <div style="margin-bottom: 10px;">
   <h4>📌 Recent Projects</h4>
-  <samp>You are welcome to explore all my projects, both under my personal profile and the organizations I’ve created to integrate complex solutions <a href="https://github.com/JaremGallegos?tab=repositories&q=&type=&language=&sort=name"><img alt="Projects" src="https://img.shields.io/badge/-%F0%9F%9A%80%20More%20Projects-%23FFFFFF?logo=gIThUB&labelColor=000000" width="10%"></a>. You can also check my lab projects at <a href="https://gitlab.com/dashboard/projects/personal"><img alt="Projects" src="https://img.shields.io/badge/-%F0%9F%9A%80%20More%20Projects-%23FC6D26?logo=gitlab&logoColor=FF0000&labelColor=FF0000" width="10%"></a> </samp>
+  <samp>You are welcome to explore all my projects, both under my personal profile and the organizations I’ve created to integrate complex solutions <a href="https://github.com/JaremGallegos?tab=repositories&q=&type=&language=&sort=name"><img alt="Projects" src="https://img.shields.io/badge/-%F0%9F%9A%80%20More%20Projects-%23FFFFFF?logo=gIThUB&labelColor=000000" width="10%"></a>. You can also check my lab projects at <a href="https://gitlab.com/dashboard/projects/personal"><img alt="Projects" src="https://img.shields.io/badge/-%F0%9F%9A%80%20More%20Projects-%23FC6D26?logo=gitlab&labelColor=000000" width="10%"></a> </samp>
 </div>
 <div>
   
