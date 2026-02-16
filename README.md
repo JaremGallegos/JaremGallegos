@@ -31,7 +31,7 @@
 
 <!-- Descripcion mas sobre mi -->
 <a href="https://josephgallegos.my">
-  <img align="right" width="35%" src="avatar.png">
+  <img align="right" width="32%" src="avatar.png">
 </a>
 
 <samp>
