@@ -45,7 +45,7 @@ My passion is analyzing computing metrics for early issue detection. This reposi
 2️⃣ Enterprise projects using full-stack technologies focused on innovation.<br>
 3️⃣ Middleware and operations management projects leveraging new technologies.<br>
 4️⃣ Data projects focused on automated environments and solution building.<br>
-5️⃣ Python scripts and automation solutions for Cisco automation. Cisco cloud<br>
+5️⃣ Legacy projects focused on innovation and integration with new technologies.<br>
 </samp><br>
 
 <!-- Message center -->
