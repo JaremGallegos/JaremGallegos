@@ -64,7 +64,7 @@ My passion is analyzing computing metrics for early issue detection. This reposi
  
  **AXOM : Predictive data models for proactive SRE** \
  Topics: [**Providing Business Solutions**](https://github.com/orgs/TheAxomCom/repositories) • [**Providing Business Solutions**](https://github.com/orgs/Alternatica/repositories) \
- Technologies: `Node`, `Node`, `Swift`, `Kotlin`, `OpenShift` \
+ Technologies: `Python`, `Scala`, `R`, `SQL` \
  Documentation: 🌐[Web Page](https://github.com/orgs/TheAxomCom/repositories) | 📄[Technical](https://www.spacex.com/) | 📒[User Manual](<https://pt.wikipedia.org/wiki/Marte_(planeta)>) | 🔗[API Docs](<https://pt.wikipedia.org/wiki/Marte_(planeta)>)
  <br/>
 
@@ -73,7 +73,7 @@ My passion is analyzing computing metrics for early issue detection. This reposi
  
  **BASE : Observability standards and SLO management** \
  Topics: [**Providing Business Solutions**](https://github.com/Wallu-C-O-O/repositories) • [**Providing Business Solutions**](https://github.com/orgs/Alternatica/repositories) \
- Technologies: `React Native`, `Node`, `Swift`, `Kotlin`, `OpenShift` \
+ Technologies: `Chef`, `Terraform`, `Ansible`, `Puppet` \
  Documentation: 🌐[Web Page](https://www.spacex.com/) | 📄[Technical](https://www.spacex.com/) | 📒[User Manual](<https://pt.wikipedia.org/wiki/Marte_(planeta)>) | 🔗[API Docs](<https://pt.wikipedia.org/wiki/Marte_(planeta)>)
  <br/>
  
@@ -82,7 +82,7 @@ My passion is analyzing computing metrics for early issue detection. This reposi
  
  **LEDG : FinOps and business metrics integration** \
  Topics: [**Providing Business Solutions**](https://github.com/orgs/SiggaOC/repositories) • [**Providing Business Solutions**](https://github.com/orgs/Alternatica/repositories) \
- Technologies: `React Native`, `Node`, `Swift`, `Kotlin`, `OpenShift` \
+ Technologies: `ELK Stack`, `Grafana`, `Prometheus` \
  Documentation: 🌐[Web Page](https://www.spacex.com/) | 📄[Technical](https://www.spacex.com/) | 📒[User Manual](<https://pt.wikipedia.org/wiki/Marte_(planeta)>) | 🔗[API Docs](<https://pt.wikipedia.org/wiki/Marte_(planeta)>)
  <br/>
  
@@ -91,7 +91,7 @@ My passion is analyzing computing metrics for early issue detection. This reposi
  
  **EDGE : Enterprise-grade DevSecOps and scalability** \
  Topics: [**Providing Business Solutions**](https://github.com/orgs/Alternatica/repositories) • [**Providing Business Solutions**](https://github.com/orgs/Alternatica/repositories) \
- Technologies: `React Native`, `Node`, `Swift`, `Kotlin`, `OpenShift` \
+ Technologies: `Bash`, `OpenShift` \
  Documentation: 🌐[Web Page](https://www.spacex.com/) | 📄[Technical](https://www.spacex.com/) | 📒[User Manual](<https://pt.wikipedia.org/wiki/Marte_(planeta)>) | 🔗[API Docs](<https://pt.wikipedia.org/wiki/Marte_(planeta)>)
  <br/><br/>
 
