@@ -63,7 +63,7 @@ My passion is analyzing computing metrics for early issue detection. This reposi
  [<img align="left" height="94px" width="94px" alt="Axom" src="https://avatars.githubusercontent.com/u/208396968?s=400&u=8f4228abb378d58317019f3abf663e98f12a7bab&v=4"/>](https://github.com/orgs/TheAxomCom/repositories)
  
  **AXOM : High-impact Business Solutions and FinOps Management** \
- Topics: [**Providing Business Solutions**](https://github.com/orgs/TheAxomCom/repositories) • [**Providing Business Solutions**](https://github.com/orgs/Alternatica/repositories) \
+ Topics: [**Providing Business Solutions**](https://github.com/orgs/TheAxomCom/repositories) • [**Providing Business Solutions**](https://github.com/orgs/Alternatica/repositories) • [**Providing Business Solutions**](https://github.com/orgs/Alternatica/repositories) \
  Technologies: `Python`, `SQL`, `PowerBI/Tableau`, `SCALA` \
  Documentation: 🌐[Web Page](https://github.com/orgs/TheAxomCom/repositories) | 📄[Technical](https://www.spacex.com/) | 📒[User Manual](<https://pt.wikipedia.org/wiki/Marte_(planeta)>) | 🔗[API Docs](<https://pt.wikipedia.org/wiki/Marte_(planeta)>)
  <br/>
@@ -72,7 +72,7 @@ My passion is analyzing computing metrics for early issue detection. This reposi
  [<img align="left" height="94px" width="94px" alt="eVend" src="https://avatars.githubusercontent.com/u/208397627?s=400&u=0a06eba7c3a26af7edea7800cd782920fc7e2a6e&v=4"/>](https://nubank.com.br/)
  
  **BASE : Process Simplification and Clean Governance Architecture** \
- Topics: [**Providing Business Solutions**](https://github.com/Wallu-C-O-O/repositories) • [**Providing Business Solutions**](https://github.com/orgs/Alternatica/repositories) \
+ Topics: [**Providing Business Solutions**](https://github.com/Wallu-C-O-O/repositories) • [**Providing Business Solutions**](https://github.com/orgs/Alternatica/repositories) • [**Providing Business Solutions**](https://github.com/orgs/Alternatica/repositories) \
  Technologies: `Chef`, `Terraform`, `Ansible`, `Puppet` \
  Documentation: 🌐[Web Page](https://www.spacex.com/) | 📄[Technical](https://www.spacex.com/) | 📒[User Manual](<https://pt.wikipedia.org/wiki/Marte_(planeta)>) | 🔗[API Docs](<https://pt.wikipedia.org/wiki/Marte_(planeta)>)
  <br/>
@@ -81,7 +81,7 @@ My passion is analyzing computing metrics for early issue detection. This reposi
  [<img align="left" height="94px" width="94px" alt="Sigga" src="https://avatars.githubusercontent.com/u/205107118?s=400&u=47452661fe67cc2d2010fcc714eb016f5581b072&v=4"/>](https://nubank.com.br/)
  
  **LEDG : Advanced Observability and Availability Metrics (SLIs/SLOs)** \
- Topics: [**Providing Business Solutions**](https://github.com/orgs/SiggaOC/repositories) • [**Providing Business Solutions**](https://github.com/orgs/Alternatica/repositories) \
+ Topics: [**Providing Business Solutions**](https://github.com/orgs/SiggaOC/repositories) • [**Providing Business Solutions**](https://github.com/orgs/Alternatica/repositories) • [**Providing Business Solutions**](https://github.com/orgs/Alternatica/repositories) \
  Technologies: `ELK Stack`, `Grafana`, `Prometheus` \
  Documentation: 🌐[Web Page](https://www.spacex.com/) | 📄[Technical](https://www.spacex.com/) | 📒[User Manual](<https://pt.wikipedia.org/wiki/Marte_(planeta)>) | 🔗[API Docs](<https://pt.wikipedia.org/wiki/Marte_(planeta)>)
  <br/>
@@ -90,7 +90,7 @@ My passion is analyzing computing metrics for early issue detection. This reposi
  [<img align="left" height="94px" width="94px" alt="Alternatica" src="https://avatars.githubusercontent.com/u/208399336?s=400&u=9bde7809cb3349f7efc4d4415b106e0fa0224ffa&v=4"/>](https://nubank.com.br/)
  
  **EDGE : Technical Security and Automated Compliance (CIS/NIST)** \
- Topics: [**Providing Business Solutions**](https://github.com/orgs/Alternatica/repositories) • [**Providing Business Solutions**](https://github.com/orgs/Alternatica/repositories) \
+ Topics: [**Providing Business Solutions**](https://github.com/orgs/Alternatica/repositories) • [**Providing Business Solutions**](https://github.com/orgs/Alternatica/repositories) • [**Providing Business Solutions**](https://github.com/orgs/Alternatica/repositories) \
  Technologies: `Bash`, `OpenShift` \
  Documentation: 🌐[Web Page](https://www.spacex.com/) | 📄[Technical](https://www.spacex.com/) | 📒[User Manual](<https://pt.wikipedia.org/wiki/Marte_(planeta)>) | 🔗[API Docs](<https://pt.wikipedia.org/wiki/Marte_(planeta)>)
  <br/><br/>
