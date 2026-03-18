@@ -39,7 +39,7 @@
 
 <h4>🗂️ About This Repository</h4>
 <samp>
-My passion is analyzing computing metrics for early issue detection and automatization. This repository contains use cases that I try to solve it:<br><br>
+My passion is analyzing computing metrics for early issue detection and automatization. This repository contains use cases that I try to solve it. Focused on:<br><br>
 1️⃣ <b>Reliability</b>: <br>
 2️⃣ <b>Resilience</b>: <br>
 3️⃣ <b>Availability</b>: <br>
