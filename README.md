@@ -48,7 +48,7 @@ My passion is analyzing computing metrics for early issue detection and automati
 
 
 ```text
-
+🗂️ asdasdasdasd
 
 Python    708 hrs ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   36.42 %     TypeScript    708 hrs ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   36.42 %
 Elixir    313 hrs ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   16.11 %     Java          313 hrs ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   16.11 %
