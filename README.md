@@ -39,8 +39,8 @@
 
 <h4>🗂️ About This Repository</h4>
 <samp>
-My passion is analyzing computing metrics for early issue detection and automatization. This repository contains use cases that I try to solve. Focused on:<br><br>
-1️⃣ <b>Reliability</b>: Mathematical modeling and statistical analysis to ensure predictable performance.<br>
+My passion lies in analyzing computing metrics for early anomaly detection and automation. This repository showcases use cases where I implement architectural enhancements focused on:<br><br>
+1️⃣ <b>Reliability</b>: Modeling and statistical analysis to ensure predictable performance.<br>
 2️⃣ <b>Resilience</b>: Implementation of self-healing architectures for fast recovery.<br>
 3️⃣ <b>Availability</b>: E2E automation for fault-tolerant infrastructure and risk management.<br>
 </samp>
