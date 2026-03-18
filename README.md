@@ -42,5 +42,5 @@
 My passion is analyzing computing metrics for early issue detection and automatization. This repository contains use cases that I try to solve it. Focused on:<br><br>
 1️⃣ <b>Reliability</b>: Measuring and improving the probability of success.<br>
 2️⃣ <b>Resilience</b>: Designing for graceful degradation and fast recovery.<br>
-3️⃣ <b>Availability</b>: Ensuring services are there when users need them most.<br>
+3️⃣ <b>Availability</b>: End-to-end automation for fault-tolerant infrastructure and risk management.<br>
 </samp>
