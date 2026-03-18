@@ -83,13 +83,4 @@ My passion is analyzing computing metrics for early issue detection and automati
  Technologies: `ELK Stack`, `Grafana`, `Prometheus` \
  Documentation: 🌐[Web Page](https://www.spacex.com/) | 📄[Technical](https://www.spacex.com/) | 📒[User Manual](<https://pt.wikipedia.org/wiki/Marte_(planeta)>) | 🔗[API Docs](<https://pt.wikipedia.org/wiki/Marte_(planeta)>)
  <br/>
- 
- 
- [<img align="left" height="94px" width="94px" alt="Alternatica" src="https://avatars.githubusercontent.com/u/208399336?s=400&u=9bde7809cb3349f7efc4d4415b106e0fa0224ffa&v=4"/>](https://nubank.com.br/)
- 
- **Technical Security and Automated Compliance (CIS/NIST)** \
- Topics: [**Providing Business Solutions**](https://github.com/orgs/Alternatica/repositories) • [**Providing Business Solutions**](https://github.com/orgs/Alternatica/repositories) • [**Providing Business Solutions**](https://github.com/orgs/Alternatica/repositories) \
- Technologies: `Bash`, `OpenShift` \
- Documentation: 🌐[Web Page](https://www.spacex.com/) | 📄[Technical](https://www.spacex.com/) | 📒[User Manual](<https://pt.wikipedia.org/wiki/Marte_(planeta)>) | 🔗[API Docs](<https://pt.wikipedia.org/wiki/Marte_(planeta)>)
- <br/><br/>
 </div>
