@@ -44,9 +44,3 @@ My passion is analyzing computing metrics for early issue detection and automati
 2️⃣ <b>Resilience</b>: <br>
 3️⃣ <b>Availability</b>: <br>
 </samp>
-<br/>
-
-<!-- Message center -->
-<p align="center">
-  <img src="PhraseBanner.gif" alt="Message Jarem"/>
-</p>
