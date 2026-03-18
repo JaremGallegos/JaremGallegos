@@ -46,10 +46,9 @@ My passion is analyzing computing metrics for early issue detection and automati
 3️⃣ <b>Availability</b>: <br>
 </samp><br>
 
+<h4>🗂️ About This Repository</h4>
 
 ```text
-🗂️ asdasdasdasd
-
 Python    708 hrs ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   36.42 %     TypeScript    708 hrs ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   36.42 %
 Elixir    313 hrs ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   16.11 %     Java          313 hrs ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   16.11 %
 Bash      265 hrs ⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   13.64 %     Rust          265 hrs ⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   13.64 %
