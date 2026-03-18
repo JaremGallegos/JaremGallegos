@@ -44,8 +44,7 @@ My passion is analyzing computing metrics for early issue detection and automati
 1️⃣ <b>Reliability</b>: <br>
 2️⃣ <b>Resilience</b>: <br>
 3️⃣ <b>Availability</b>: <br>
-</samp><br>
-
+</samp>
 <h4>🗂️ About This Repository</h4>
 
 ```text
