@@ -9,7 +9,6 @@
 
 <!-- Badges de Redes Sociales -->
 <div align="center">
-  <!-- Redes Sociales -->
   <p>
     <a href="https://jaremgallegos.github.io"><img alt="Portafolio de Proyectos" src="https://img.shields.io/badge/-About Me!-41454A?style=flat-square&logo=Awwwards&logoColor=41454A&labelColor=FFFFFF&link=https%3A%2F%2Fmistral.mi"></a>
     <a href="https://www.linkedin.com/in/jaremgallegos/"><img alt="Linkedin" src="https://img.shields.io/badge/-%40JosephGallegos-FFFFFF?style=flat-square&logo=LogMeIn&logoColor=FFFFFF&labelColor=0073B2&link=www.linkedin.com%2Fin%2Fjaremgallegos"></a>
@@ -45,7 +44,8 @@ My passion is analyzing computing metrics for early issue detection and automati
 2️⃣ <b>Resilience</b>: <br>
 3️⃣ <b>Availability</b>: <br>
 </samp>
-<h4>🗂️ About This Repository</h4>
+
+<h4>🧰 About This Repository</h4>
 
 ```text
 Python    708 hrs ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   36.42 %     TypeScript    708 hrs ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   36.42 %
