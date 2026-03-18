@@ -35,17 +35,17 @@
 </a>
 
 <samp>
-👋 Welcome <img align="center" width="9%" src="https://views-counter.vercel.app/badge?pageId=JaremGallegos" alt="Número de visitantes"> to this repository!. I'm a <b>Site Reliability Engineer</b>. What is that? Well, think of me as the person responsible for the core infrastructure, building automated systems to ensure scalability and fault tolerance, and reacting quickly if things break 😬.
+👋 Welcome <img align="center" width="9%" src="https://views-counter.vercel.app/badge?pageId=JaremGallegos" alt="Número de visitantes"> to this repository!. I'm a <b>Site Reliability Engineer</b>. What is that? Well, think of me as the person responsible for the core infrastructure, building automated systems to ensure availability and fault tolerance, and reacting quickly if things break 😬.
 </samp>
 
 <h4>🗂️ About This Repository</h4>
 <samp>
 My passion is analyzing computing metrics for early issue detection. This repository contains my notes and analysis methods, focused on:<br><br>
-1️⃣ <b>Infrastructure</b>: Automation, system design, and cloud vendor integration.<br>
-2️⃣ <b>Data</b>: Predictive modeling and data analytics for SRE-driven reliability.<br>
-3️⃣ <b>Enterprise</b>: Business solutions designed to optimize and scale operations.<br>
-4️⃣ <b>Middleware</b>: Integrating IT/OT operations through the Purdue Model.<br>
-5️⃣ <b>Legacy</b>: Applying SRE principles and modernization to Mainframe ecosystems.<br>
+1️⃣ <b>Automation</b>: Automation, system design, and cloud vendor integration.<br>
+2️⃣ <b>Reliability</b>: Predictive modeling and data analytics for SRE-driven reliability.<br>
+3️⃣ <b>Resilience</b>: Business solutions designed to optimize and scale operations.<br>
+4️⃣ <b>Platforming</b>: Integrating IT/OT operations through the Purdue Model.<br>
+5️⃣ <b>Security</b>: Applying SRE principles and modernization to Mainframe ecosystems.<br>
 </samp><br>
 
 <!-- Message center -->
