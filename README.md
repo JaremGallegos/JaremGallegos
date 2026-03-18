@@ -40,12 +40,10 @@
 
 <h4>🗂️ About This Repository</h4>
 <samp>
-My passion is analyzing computing metrics for early issue detection. This repository contains my notes and analysis methods, focused on:<br><br>
-1️⃣ <b>Automation</b>: Automation, system design, and cloud vendor integration.<br>
-2️⃣ <b>Reliability</b>: Predictive modeling and data analytics for SRE-driven reliability.<br>
-3️⃣ <b>Resilience</b>: Business solutions designed to optimize and scale operations.<br>
-4️⃣ <b>Platforming</b>: Integrating IT/OT operations through the Purdue Model.<br>
-5️⃣ <b>Security</b>: Applying SRE principles and modernization to Mainframe ecosystems.<br>
+My passion is analyzing computing metrics for early issue detection and automatization. This repository contains use cases that I try to solve it, focused on:<br><br>
+1️⃣ <b>Reliability</b>: <br>
+2️⃣ <b>Resilience</b>: <br>
+3️⃣ <b>Availability</b>: <br>
 </samp><br>
 
 <!-- Message center -->
@@ -99,14 +97,12 @@ My passion is analyzing computing metrics for early issue detection. This reposi
 
 
 ```text
-From: 01 January 2023 - To: 17 March 2025
 
-Total Time: 1,944 hrs 37 mins
 
-Java      708 hrs ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   36.42 %     JavaScript    708 hrs ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   36.42 %
-C#        313 hrs ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   16.11 %     Python        313 hrs ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   16.11 %
-COBOL     265 hrs ⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   13.64 %     Rust          265 hrs ⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   13.64 %
-C         145 hrs ⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   07.46 %     Go            145 hrs ⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   07.46 %
-Bash      89 hrs  ⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.62 %     SQL           89 hrs  ⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.62 %
-C++       86 hrs  ⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.44 %     Others        86 hrs  ⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.44 %
+Python    708 hrs ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   36.42 %     TypeScript    708 hrs ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   36.42 %
+Elixir    313 hrs ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   16.11 %     Java          313 hrs ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   16.11 %
+Bash      265 hrs ⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   13.64 %     Rust          265 hrs ⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   13.64 %
+C++       145 hrs ⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   07.46 %     Go            145 hrs ⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   07.46 %
+C         89 hrs  ⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.62 %     Scala         89 hrs  ⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.62 %
+SQL       86 hrs  ⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.44 %     COBOL         86 hrs  ⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.44 %
 ```
