@@ -40,7 +40,7 @@
 <h4>🗂️ About This Repository</h4>
 <samp>
 My passion lies in analyzing computing metrics for early anomaly detection and automation. This repository showcases use cases where I implement architectural enhancements focused on:<br><br>
-1️⃣ <b>Reliability</b>: Modeling and statistical analysis to ensure predictable performance.<br>
+1️⃣ <b>Reliability</b>: Statistical modeling for predictable system performance.<br>
 2️⃣ <b>Resilience</b>: Implementation of self-healing architectures for fast recovery.<br>
-3️⃣ <b>Availability</b>: E2E automation for fault-tolerant infrastructure and risk management.<br>
+3️⃣ <b>Availability</b>: E2E automation for fault-tolerant risk management.<br>
 </samp>
