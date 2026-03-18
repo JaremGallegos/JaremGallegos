@@ -10,7 +10,7 @@
 <!-- Badges de Redes Sociales -->
 <div align="center">
   <p>
-    <a href="https://jaremgallegos.github.io"><img alt="Portafolio de Proyectos" src="https://img.shields.io/badge/-About Me!-41454A?style=flat-square&logo=Awwwards&logoColor=41454A&labelColor=FFFFFF&link=https%3A%2F%2Fmistral.mi"></a>
+    <a href="https://gitlab.com/dashboard/projects/personal"><img alt="Portafolio de Proyectos" src="https://img.shields.io/badge/-About Me!-41454A?style=flat-square&logo=Awwwards&logoColor=41454A&labelColor=FFFFFF&link=https%3A%2F%2Fmistral.mi"></a>
     <a href="https://www.linkedin.com/in/jaremgallegos/"><img alt="Linkedin" src="https://img.shields.io/badge/-%40JosephGallegos-FFFFFF?style=flat-square&logo=LogMeIn&logoColor=FFFFFF&labelColor=0073B2&link=www.linkedin.com%2Fin%2Fjaremgallegos"></a>
     <a href="https://gitlab.com/users/JaremGallegos/projects"><img alt="Gitlab" src="https://img.shields.io/badge/-%40JosephGallegos-FF0000?style=flat-square&logo=Gitlab&logoColor=FF0000&labelColor=FFFFFF"></a> 
     <a href="https://zenodo.org/search?q=metadata.creators.person_or_org.name%3A%22Gallegos%20Yanarico%2C%20Jarem%20Joseph%22&l=list&p=1&s=10&sort=bestmatch"><img alt="Zenodo" src="https://img.shields.io/badge/-%40JosephGallegos-%23000000?style=flat-square&logo=Zenodo&logoColor=%23000000&labelColor=FFFFFF"></a> 
