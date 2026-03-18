@@ -24,14 +24,10 @@
     <a href="https://platform.stratascratch.com/user/JaremGallegos/"><img alt="Stratascratch" src="https://img.shields.io/badge/-STRATASCRATCH-%23000000?style=for-the-badge&logo=NextBillion.ai&logoColor=%23ffffff&link=https%3A%2F%2Fplatform.stratascratch.com%2Fuser%2FJarem"></a>
     <a href="https://profile.hackthebox.com/profile/019c5db1-b277-711b-b1fe-7d9451a41f08"><img alt="Hack The Box" src="https://img.shields.io/badge/-HACK%20THE%20BOX-%23000000?style=for-the-badge&logo=hackthebox&logoColor=FFFFFF"></a>
   </p>
-</div>
-
-<br/>
+</div><br/>
 
 <!-- Descripcion mas sobre mi -->
-<a href="https://josephgallegos.my">
-  <img align="right" width="30%" src="avatar.png">
-</a>
+<a><img align="right" width="30%" src="avatar.png"></a>
 
 <samp>
 👋 Welcome <img align="center" width="9%" src="https://views-counter.vercel.app/badge?pageId=JaremGallegos" alt="Número de visitantes"> to this repository!. I'm a <b>Site Reliability Engineer</b>. What is that? Well, think of me as the person responsible for the core infrastructure, building automated systems to ensure availability and fault tolerance, and reacting quickly if things break 😬.
